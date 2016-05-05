@@ -42,6 +42,23 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
+## Upcoming Projects and Activities
+
+Along with our normal club meetings, we also provides great opportunities
+for individuals who are interested in learning about and participating in
+cyber related competitions. This upcoming school year, we want to take this a
+step further with some new initiatives that are currently in the works. These
+include, but are not limited to:
+
+* Hosting our own cyber CTF (Capture the Flag) event at UMBC
+* Getting a coach for this year's CCDC team
+* Increasing collaborative and promotional efforts with other UMBC organizations
+* Providing a comprehensive list of resources for various cyber security related topics
+
+However, if these are all going to come to fruition, we need your help to
+make it happen! We have a myraid of tasks and projects that will need to be done
+over the next year, so stay tuned...
+
 ## Mailing List<a name="mailinglist"><a> 
 
 The majority of our week to week announcements are done via our mailing list.
