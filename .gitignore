@@ -1,0 +1,6 @@
+# Jekyll Ignores
+_site
+.sass-cache
+
+# Vim swap files
+*.swp

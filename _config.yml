@@ -1,0 +1,10 @@
+# Site settings
+title: UMBC Cyber Dawgs
+tag_text: UMBC Cyber Dawgs
+description: UMBC Cyber Defense Team 
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
