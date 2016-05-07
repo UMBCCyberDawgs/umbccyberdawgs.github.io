@@ -15,6 +15,7 @@ There are a few things you can do to get involved with the club.
 1. Join our [mailing list](#mailinglist)
 2. Join our [Slack](https://umbccd.slack.com)[^1]
 3. Attend our weekly [meetings](#meetings)
+4. Check out our [resources](resources/)
 
 ## Current Board
 
