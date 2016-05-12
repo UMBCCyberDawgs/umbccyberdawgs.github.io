@@ -43,7 +43,7 @@ h1 {
   margin-bottom: 1rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 40rem) {
   h1 {
     font-size: 3rem;
     margin-bottom: 3rem;
@@ -149,4 +149,10 @@ pre > code {
   max-width: 50%;
   margin: 0 auto;
   padding: 0 1rem;
+  @media (max-width: 76rem) {
+      max-width: 75%;
+  }
+  @media (max-width: 23rem) {
+      max-width: 80%; // Make it look good on iPhone<6.
+  }
 }
