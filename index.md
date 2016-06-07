@@ -57,7 +57,7 @@ include, but are not limited to:
 * Providing a comprehensive list of resources for various cyber security related topics
 
 However, if these are all going to come to fruition, we need your help to
-make it happen! We have a myraid of tasks and projects that will need to be done
+make it happen! We have a myriad of tasks and projects that will need to be done
 over the next year, so stay tuned...
 
 ## Mailing List<a name="mailinglist"><a> 
