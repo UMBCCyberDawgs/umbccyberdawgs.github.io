@@ -80,7 +80,7 @@ contact our secretary.
 * Dr. Richard Forno (rforno @ umbc.edu)  
 
 ### Corporate Relations
-*  Allison Jones (ajones9 @ umbc.edu) 
+*  Natalie Brianas (nbrianas @ umbc.edu) 
 
 
 ### License
