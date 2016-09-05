@@ -49,8 +49,8 @@ Our meetings for the fall semester are sort of an introduction to computer
 security. We aim to go over many of the foundational topics in computer
 security, so if you're a beginner, you won't want to miss a meeting.
 
-If you're not a beginner, don't worry, you'll be able to meet like minded folks
-and we have plenty of harder activities available.
+If you already have experience, don't worry-you'll be able to meet like-minded folks,
+and we will have plenty of more challenging available.
 
 For a full description of our schedule, take a look at the calendar below.
 
@@ -84,8 +84,7 @@ skills.
 
 * Providing a comprehensive list of resources for various cyber security related topics
 
-* Developing resources/a curriculum for a potential "active cyber defense"
-course.
+* Developing a curriculum for a planned "active cyber defense" course.
 
 However, if these are all going to come to fruition, we need your help to
 make it happen! We have a myriad of tasks and projects that will need to be done
