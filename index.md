@@ -43,16 +43,34 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
-## Upcoming Projects and Activities
+### Fall Semester Meetings
 
-Along with our normal club meetings, we also provides great opportunities
-for individuals who are interested in learning about and participating in
-cyber related competitions. This upcoming school year, we want to take this a
-step further with some new initiatives that are currently in the works. These
+Our meetings for the fall semester are sort of an introduction to computer
+security. We aim to go over many of the foundational topics in computer
+security, so if you're a beginner, you won't want to miss a meeting.
+
+For a full description of our schedule, take a look at the calendar below.
+
+## Planned Projects and Activities
+
+Along with our normal club meetings, we also provide great opportunities for
+individuals who are interested in learning about and participating in cyber
+related competitions. This upcoming school year, we want to take this a step
+further with some new initiatives that are currently in the works. These
 include, but are not limited to:
 
-* Hosting our own cyber CTF (Capture the Flag) event at UMBC
-* Getting a coach for this year's CCDC team
+* Hosting our own CTF (Capture the Flag) event at UMBC (currently slated for
+early March)
+* Competing in the following competitions:
+    * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
+    * [CSAW CTF](https://csaw.engineering.nyu.edu/ctf)
+      (moderate level, not recommended for beginners) (fall)
+    * [MITRE CTF](https://www.mitre.org/news/corporate-events/capture-the-flag-ctf-2016)
+      (easier than CSAW, same weekend)
+    * Booz Allen Hamilton's Kaizen CTF (fall). Details will be coming.
+* Working with our CCDC coach to improve our skills for the CCDC competition
+* Finding another CCDC coach with skills that complement our current coach's
+skills.
 * Increasing collaborative and promotional efforts with other UMBC organizations
 * Providing a comprehensive list of resources for various cyber security related topics
 
