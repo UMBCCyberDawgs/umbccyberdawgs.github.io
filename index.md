@@ -91,7 +91,7 @@ make it happen! We have a myriad of tasks and projects that will need to be done
 over the next year, so stay tuned...
 
 <div style="text-align: center;">
-  <a name="calendar"/><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="border-width:0; padding: 10px; border-radius: 15px; box-shadow: 5px 10px 20px 1px #777777;" width="700" height="300" frameborder="0" scrolling="no"></iframe>
+  <a name="calendar"/><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## <a name="mailinglist"/>Mailing List
