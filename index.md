@@ -49,6 +49,9 @@ Our meetings for the fall semester are sort of an introduction to computer
 security. We aim to go over many of the foundational topics in computer
 security, so if you're a beginner, you won't want to miss a meeting.
 
+If you're not a beginner, don't worry, you'll be able to meet like minded folks
+and we have plenty of harder activities available.
+
 For a full description of our schedule, take a look at the calendar below.
 
 ## Planned Projects and Activities
@@ -59,8 +62,10 @@ related competitions. This upcoming school year, we want to take this a step
 further with some new initiatives that are currently in the works. These
 include, but are not limited to:
 
-* Hosting our own CTF (Capture the Flag) event at UMBC (currently slated for
-early March)
+* Hosting our own CTF (Capture the Flag) event at UMBC. It'll be accessible to
+beginners, but entertaining for all. Mark your calendars for **March 4, 2017**.
+More details to come.
+
 * Competing in the following competitions:
     * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
     * [CSAW CTF](https://csaw.engineering.nyu.edu/ctf)
@@ -68,11 +73,19 @@ early March)
     * [MITRE CTF](https://www.mitre.org/news/corporate-events/capture-the-flag-ctf-2016)
       (easier than CSAW, same weekend)
     * Booz Allen Hamilton's Kaizen CTF (fall). Details will be coming.
-* Working with our CCDC coach to improve our skills for the CCDC competition
+
+* Working with our CCDC coach, Dr. Mike Oehler, to improve our skills for the
+CCDC competition
+
 * Finding another CCDC coach with skills that complement our current coach's
 skills.
+
 * Increasing collaborative and promotional efforts with other UMBC organizations
+
 * Providing a comprehensive list of resources for various cyber security related topics
+
+* Developing resources/a curriculum for a potential "active cyber defense"
+course.
 
 However, if these are all going to come to fruition, we need your help to
 make it happen! We have a myriad of tasks and projects that will need to be done
