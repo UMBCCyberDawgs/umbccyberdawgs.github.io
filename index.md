@@ -35,7 +35,7 @@ meetings.
 
 * An environment conducive to learning relevant cybersecurity tools and
 techniques
-* A place to meet like minded students and discuss all things cyber security 
+* A place to meet like-minded students and discuss all things cyber security 
 
 
 Our meetings vary in subject material week to week. If you have specific topics
