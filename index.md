@@ -50,7 +50,7 @@ security. We aim to go over many of the foundational topics in computer
 security, so if you're a beginner, you won't want to miss a meeting.
 
 If you already have experience, don't worry-you'll be able to meet like-minded folks,
-and we will have plenty of more challenging available.
+and we will have plenty of more challenging activities available.
 
 For a full description of our schedule, take a look at the calendar below.
 
