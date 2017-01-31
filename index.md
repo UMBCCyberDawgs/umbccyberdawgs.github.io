@@ -43,14 +43,17 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
-### Fall Semester Meetings
+### Spring Semester Meetings
 
-Our meetings for the fall semester are sort of an introduction to computer
-security. We aim to go over many of the foundational topics in computer
-security, so if you're a beginner, you won't want to miss a meeting.
+Our meetings for the fall semester were an introduction to computer security. We
+went over many of the foundational topics in computer security.
 
-If you already have experience, don't worry-you'll be able to meet like-minded folks,
-and we will have plenty of more challenging activities available.
+Our meetings for the spring semester will continue with that trend. Some topics
+will be a little more in-depth, but our goals of helping beginners remain
+unchanged. Please see our calendar for more information.
+
+If you already have experience, don't worry-you'll be able to meet like-minded
+folks, and we will have plenty of more challenging activities available.
 
 For a full description of our schedule, take a look at the calendar below.
 
@@ -63,22 +66,17 @@ further with some new initiatives that are currently in the works. These
 include, but are not limited to:
 
 * Hosting our own CTF (Capture the Flag) event at UMBC. It'll be accessible to
-beginners, but entertaining for all. Mark your calendars for **March 4, 2017**.
+beginners, but entertaining for all. Mark your calendars for **March 11, 2017**.
 More details to come.
 
-* Competing in the following competitions:
+* Competing/competed in the following competitions:
     * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
+    * [Metropolis](https://www.cyberskyline.com/events/metropolis) (Spring)
     * [CSAW CTF](https://csaw.engineering.nyu.edu/ctf)
       (moderate level, not recommended for beginners) (fall)
     * [MITRE CTF](https://www.mitre.org/news/corporate-events/capture-the-flag-ctf-2016)
       (easier than CSAW, same weekend)
-    * Booz Allen Hamilton's Kaizen CTF (fall). Details will be coming.
-
-* Working with our CCDC coach, Dr. Mike Oehler, to improve our skills for the
-CCDC competition
-
-* Finding another CCDC coach with skills that complement our current coach's
-skills.
+    * Booz Allen Hamilton's Kaizen CTF (fall).
 
 * Increasing collaborative and promotional efforts with other UMBC organizations
 
