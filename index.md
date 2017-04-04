@@ -93,7 +93,7 @@ over the next year, so stay tuned...
   <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe></a>
 </div>
 
-## Competition Finishes
+## <a name="finishes">Competition Finishes</a>
 
 **MACCDC 2017**: 1st place, *advanced to NCCDC*  
 **CSAW 2016**: 16th (undergrad, North America)  
