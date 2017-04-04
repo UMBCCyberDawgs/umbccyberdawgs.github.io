@@ -5,13 +5,13 @@ layout: default
 ## Welcome
 
 Welcome to the UMBC Cyber Dawgs' homepage. We are a group of UMBC students who
-share a common interest in computer and network security. 
+share a common interest in computer and network security.
 
 
 ## How to get involved 
 
-There are a few things you can do to get involved with the club. 
- 
+There are a few things you can do to get involved with the club.
+
 1. Join our [mailing list](#mailinglist)
 2. Checkout the [calendar](#calendar)
 3. Attend our weekly [meetings](#meetings) in **ITE 231**
@@ -93,11 +93,22 @@ over the next year, so stay tuned...
   <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe></a>
 </div>
 
+## Competition Finishes
+
+**MACCDC 2017**: 1st place, *advanced to NCCDC*  
+**CSAW 2016**: 16th (undergrad, North America)  
+**MACCDC 2016**: 4th place  
+**MDC3 2015**: 1st place  
+**NCCDC 2015**: 4th place  
+**MACCDC 2015**: 1st place, *advanced to NCCDC*  
+
+*Past club members: if we’re missing anything, please contact our secretary!*
+
 ## <a name="mailinglist">Mailing List</a>
 
 The majority of our week to week announcements are done via our mailing list.
 These announcements include upcoming events, weekly meeting information, and
-cybersecurity related information. 
+cybersecurity related information.
 
 *To join our mailing list* please send an email to
 umbccd-subscribe @ lists.umbc.edu. As a rule we only accept umbc.edu email
@@ -108,7 +119,7 @@ contact our secretary.
 ## UMBC Liaisons
 
 ### Faculty Advisor 
- 
+
 * Dr. Charles Nicholas (nicholas @ umbc.edu)  
 * Dr. Richard Forno (rforno @ umbc.edu)  
 
