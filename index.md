@@ -95,12 +95,13 @@ over the next year, so stay tuned...
 
 ## <a name="finishes">Competition Finishes</a>
 
-**MACCDC 2017**: 1st place, *advanced to NCCDC*  
+**National CCDC 2017**: 1st place  
+**Mid Atlantic CCDC 2017**: 1st place, *advanced to national CCDC*  
 **CSAW 2016**: 16th (undergrad, North America)  
-**MACCDC 2016**: 4th place  
+**Mid Atlantic CCDC 2016**: 4th place  
 **MDC3 2015**: 1st place  
-**NCCDC 2015**: 4th place  
-**MACCDC 2015**: 1st place, *advanced to NCCDC*  
+**National CCDC 2015**: 4th place  
+**Mid Atlantic CCDC 2015**: 1st place, *advanced to national CCDC*  
 
 *Past club members: if we’re missing anything, please contact our secretary!*
 
