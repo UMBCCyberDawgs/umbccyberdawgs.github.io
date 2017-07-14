@@ -111,7 +111,7 @@ The majority of our week to week announcements are done via our mailing list.
 These announcements include upcoming events, weekly meeting information, and
 cybersecurity related information.
 
-*To join our mailing list* please send an email to
+*To join our mailing list* please send an email to  
 umbccd-group+subscribe @ umbc.edu As a rule we only accept umbc.edu email
 addresses. If you do not have a umbc.edu email and would like to join, please
 contact our secretary.
