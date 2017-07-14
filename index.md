@@ -21,8 +21,8 @@ There are a few things you can do to get involved with the club.
 ## Current Board
 
 **President:** Bryan Vanek (bvanek1 @ umbc.edu)  
-**Vice President:** Anh Ho (a150 @ umbc.edu)  
-**Secretary:** Zack Orndorff (zo1 @ umbc.edu)  
+**Vice President:** Chris Gardner (gchris1 @ umbc.edu)  
+**Secretary:** Kevin Bilzer (kbilzer1 @ umbc.edu)  
 **Treasurer:** Christian Beam (cbeam3 @ umbc.edu)  
 
 ## <a name="meetings">Meetings</a>
