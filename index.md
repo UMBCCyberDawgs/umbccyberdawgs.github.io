@@ -120,7 +120,7 @@ contact our secretary.
 
 Our advisor has set up a class that runs concurrently with our meetings. If you
 are in this class or wish to know more about it, take a look at the course
-website here: https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/
+website here: [https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/](https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/)
 
 ## UMBC Liaisons
 
