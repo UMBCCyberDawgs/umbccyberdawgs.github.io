@@ -14,7 +14,9 @@ There are a few things you can do to get involved with the club.
 
 1. Join our [mailing list](#mailinglist)
 2. Checkout the [calendar](#calendar)
-3. Attend our weekly [meetings](#meetings) in **ITE 231**
+3. Attend our weekly [meetings](#meetings)
+    * First meeting is in **ITE 102**.
+    * Subsequent meetings will be another room in ITE, to be announced.
 4. Join our [Slack](https://umbccd.slack.com)[^1]
 5. Check out our [Github](https://github.com/UMBCCyberDawgs)
 
