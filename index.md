@@ -73,7 +73,8 @@ include, but are not limited to:
 
 * Running a miniature defense competition for both fun and preparation for CCDC.
   It'll be open to all UMBC undergrads at minimum. We'll likely also have a
-  couple invited teams. More details to come.
+  couple invited teams. Mark your calendars for **October 28, 2017**. More
+  details to come.
 
 * Hosting a CTF (Capture the Flag) event at UMBC. It'll be accessible to
   beginners, but entertaining for all. We did this last year, and we're all
