@@ -44,17 +44,18 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
-### Spring Semester Meetings
+### Fall Semester Meetings
 
-Our meetings for the fall semester were an introduction to computer security. We
-went over many of the foundational topics in computer security.
-
-Our meetings for the spring semester will continue with that trend. Some topics
-will be a little more in-depth, but our goals of helping beginners remain
-unchanged. Please see our calendar for more information.
+Our meetings for the fall semester are an introduction to computer security. We
+will go over many of the foundational topics in computer security, so if you're
+a beginner, you're in luck.
 
 If you already have experience, don't worry-you'll be able to meet like-minded
 folks, and we will have plenty of more challenging activities available.
+
+Our meetings for the spring semester will likely continue with that trend, but
+we will go more in depth. Previous spring topics include reverse engineering and
+cryptography. We will discuss plans at the end of the fall semester.
 
 For a full description of our schedule, take a look at the calendar below.
 
@@ -66,24 +67,23 @@ related competitions. This upcoming school year, we want to take this a step
 further with some new initiatives that are currently in the works. These
 include, but are not limited to:
 
-* Hosting our own CTF (Capture the Flag) event at UMBC. It'll be accessible to
-beginners, but entertaining for all. Mark your calendars for **March 11, 2017**.
-More details to come.
+* Running a miniature defense competition for both fun and preparation for CCDC.
+  It'll be open to all UMBC undergrads at minimum. We'll likely also have a
+  couple invited teams. More details to come.
 
-* Competing/competed in the following competitions:
-    * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
-    * [Metropolis](https://www.cyberskyline.com/events/metropolis) (Spring)
+* Hosting a CTF (Capture the Flag) event at UMBC. It'll be accessible to
+  beginners, but entertaining for all. We did this last year, and we're all
+  looking forward to it. More details to come.
+
+* Competing in the following competitions:
+    * Booz Allen Hamilton's Kaizen CTF (fall).
     * [CSAW CTF](https://csaw.engineering.nyu.edu/ctf)
       (moderate level, not recommended for beginners) (fall)
-    * [MITRE CTF](https://www.mitre.org/news/corporate-events/capture-the-flag-ctf-2016)
-      (easier than CSAW, same weekend)
-    * Booz Allen Hamilton's Kaizen CTF (fall).
+    * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
+    * [ISTS](https://ists.sparsa.org/), hosted by SPARSA at RIT (Spring)
+    * [Metropolis](https://www.cyberskyline.com/events/metropolis) (Spring)
 
 * Increasing collaborative and promotional efforts with other UMBC organizations
-
-* Providing a comprehensive list of resources for various cyber security related topics
-
-* Developing a curriculum for a planned "active cyber defense" course.
 
 However, if these are all going to come to fruition, we need your help to
 make it happen! We have a myriad of tasks and projects that will need to be done
