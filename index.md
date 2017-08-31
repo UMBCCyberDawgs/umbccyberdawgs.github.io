@@ -26,6 +26,8 @@ There are a few things you can do to get involved with the club.
 **Vice President:** Chris Gardner (gchris1 @ umbc.edu)  
 **Secretary:** Kevin Bilzer (kbilzer1 @ umbc.edu)  
 **Treasurer:** Christian Beam (cbeam3 @ umbc.edu)  
+**Historian:** Alexander Spizler (spizler1 @ umbc.edu)  
+**Technical Advisor:** Zack Orndorff (zo1 @ umbc.edu)  
 
 ## <a name="meetings">Meetings</a>
 
