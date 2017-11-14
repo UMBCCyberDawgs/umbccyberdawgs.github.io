@@ -102,7 +102,7 @@ over the next year, so stay tuned...
 ## <a name="finishes">Competition Finishes</a>
 
 **CSAW Finals 2017**: 7th place in North America, 11th overall  
-**CSAW Quals 2017**: 9th place (undergrad, North America), 46th overall, qualified for North American finals  
+**CSAW Quals 2017**: 9th place (undergrad, North America), 46th overall, *qualified for North American finals*  
 **National CCDC 2017**: 1st place  
 **Mid Atlantic CCDC 2017**: 1st place, *advanced to national CCDC*  
 **CSAW 2016**: 16th (undergrad, North America)  
