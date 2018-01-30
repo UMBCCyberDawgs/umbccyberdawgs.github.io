@@ -13,7 +13,7 @@ Registration is required, please fill out the [registration form](https://goo.gl
 
 DawgCTF will be a Jeopardy style CTF open to all undergraduate college students
 (we might allow some grad students, talk to us). It will be held in the UMBC
-University Center Ballroom. Breakfast and lunch will be provided.
+University Center Ballroom. Lunch and dinner will be provided.
 
 This will be a team competition. Team size is 4, but you can play by yourself if
 you want.
