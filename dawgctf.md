@@ -7,9 +7,9 @@ description: DawgCTF will be a Jeopardy style CTF open to all undergraduate coll
 # DawgCTF 2018
 
 The [UMBC Cyber Dawgs](http://umbccd.umbc.edu/) are hosting our second annual
-CTF on Sunday, March 11 from 10am-5pm.
+CTF on Sunday, March 11 from 11am-7pm.
 
-Registration will be required, details are coming soon.
+Registration is required. 
 
 DawgCTF will be a Jeopardy style CTF open to all undergraduate college students
 (we might allow some grad students, talk to us). It will be held in the UMBC
@@ -33,10 +33,10 @@ email can be found on the webpage linked above.
 
 ## TL; DR
 
-* DawgCTF - be there - Sunday March 11, 10am-5pm
-* **Registration is required**, details coming soon.
+* DawgCTF - be there - Sunday March 11, 11am-7pm
+* **Registration is required**, please fill out the [registration form](https://docs.google.com/forms/d/1_gvoxDfG5I8dfO6xUj_DNo2pWyb7dQ1yMlb2iPqKz2k/edit)
 * Location: UMBC University Center Ballroom
 * Jeopardy style
 * Team size is 4
 * Prizes will be awarded
-* We're providing breakfast and lunch
+* We're providing lunch and dinner
