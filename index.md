@@ -18,9 +18,8 @@ There are a few things you can do to get involved with the club.
 1. Join our [mailing list](#mailinglist)
 2. Checkout the [calendar](#calendar)
 3. Attend our weekly [meetings](#meetings)
-    * First meeting is in **UC 302**.
-    * Subsequent meetings will be in ~~**PUP 206**~~ **PUP 105**. (Yes, the
-    public policy building. Their rooms are nice.)
+    * Meeting location for the spring semester is **TBD**, join our mailing list
+    for updates.
 4. Join our [Slack](https://umbccd.slack.com)[^1]
 5. Check out our [Github](https://github.com/UMBCCyberDawgs)
 
@@ -52,6 +51,16 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
+### Spring Semester Meetings
+
+Our meetings for the spring semester will build on the knowledge we learned in
+the fall semester. If you're new, no worries, you can still come; talk to us to
+see to what extent you might need to catch yourself up. Security's nowhere near
+as hard as people say, so don't be scared away :)
+
+This spring we will focus on reverse engineering and exploitation. See our
+calendar below for details.
+
 ### Fall Semester Meetings
 
 Our meetings for the fall semester are an introduction to computer security. We
@@ -65,34 +74,20 @@ Our meetings for the spring semester will likely continue with that trend, but
 we will go more in depth. Previous spring topics include reverse engineering and
 cryptography. We will discuss plans at the end of the fall semester.
 
-For a full description of our schedule, take a look at the calendar below.
-
 ## Planned Projects and Activities
 
 Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
-related competitions. This upcoming school year, we want to take this a step
-further with some new initiatives that are currently in the works. These
-include, but are not limited to:
-
-* Running a miniature defense competition for both fun and preparation for CCDC.
-  It'll be open to all UMBC undergrads at minimum. We'll likely also have a
-  couple invited teams. Mark your calendars for **October 28, 2017**. More
-  details to come.
+related competitions. Here's what we're doing this semester:
 
 * Hosting a CTF (Capture the Flag) event at UMBC. It'll be accessible to
   beginners, but entertaining for all. We did this last year, and we're all
-  looking forward to it. More details to come.
+  looking forward to it. See details at the top of the page.
 
 * Competing in the following competitions:
-    * Booz Allen Hamilton's Kaizen CTF (fall).
-    * [CSAW CTF](https://csaw.engineering.nyu.edu/ctf)
-      (moderate level, not recommended for beginners) (fall)
     * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
-    * [ISTS](https://ists.sparsa.org/), hosted by SPARSA at RIT (Spring)
-    * [Metropolis](https://www.cyberskyline.com/events/metropolis) (Spring)
-
-* Increasing collaborative and promotional efforts with other UMBC organizations
+    * UMD CSEC's CTF
+    * Probably some others
 
 However, if these are all going to come to fruition, we need your help to
 make it happen! We have a myriad of tasks and projects that will need to be done
@@ -129,9 +124,13 @@ contact our secretary.
 
 ## <a name="activecyberdefense">CMSC 491 Active Cyber Defense class
 
-Our advisor has set up a class that runs concurrently with our meetings. If you
-are in this class or wish to know more about it, take a look at the course
-website here: [https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/](https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/)
+In fall 2017, our advisor set up a class that ran concurrently with our
+meetings. If you were in this class or want to know more about it, take a look
+at the course website here:
+[https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/](https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/)
+
+This section is still here for historical interest, stay tuned for plans for
+next fall.
 
 ## UMBC Liaisons
 
