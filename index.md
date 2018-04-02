@@ -18,7 +18,7 @@ There are a few things you can do to get involved with the club.
 1. Join our [mailing list](#mailinglist)
 2. Checkout the [calendar](#calendar)
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the spring semester is **TBD**, join our mailing list
+    * Meeting location for the spring semester is **ITE 227**, join our mailing list
     for updates.
 4. Join our [Slack](https://umbccd.slack.com)[^1]
 5. Check out our [Github](https://github.com/UMBCCyberDawgs)
