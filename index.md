@@ -7,10 +7,6 @@ layout: default
 Welcome to the UMBC Cyber Dawgs' homepage. We are a group of UMBC students who
 share a common interest in computer and network security.
 
-## DawgCTF 2018
-Our spring CTF registration is live. For event information and registration, visit our [DawgCTF 2018](/dawgctf) page.
-
-
 ## How to get involved 
 
 There are a few things you can do to get involved with the club.
@@ -25,14 +21,14 @@ There are a few things you can do to get involved with the club.
 
 ## Current Board
 
-**President:** Bryan Vanek (bvanek1 @ umbc.edu)  
-**Vice President:** Chris Gardner (gchris1 @ umbc.edu)  
-**Secretary:** Kevin Bilzer (kbilzer1 @ umbc.edu)  
-**Treasurer:** Christian Beam (cbeam3 @ umbc.edu)  
-**Historian:** Alexander Spizler (spizler1 @ umbc.edu)  
-**Technical Advisor:** Zack Orndorff (zo1 @ umbc.edu)  
+**President:** Kevin Bilzer (kbilzer1 @ umbc.edu)  
+**Vice President:** Zack Orndorff (zo1 @ umbc.edu)  
+**Secretary:** Andrew Sciandra (asciand1 @ umbc.edu)  
+**Treasurer:** Amina Mahmood (amina3 @ umbc.edu)<br/>
+**Historian:** RJ Joyce (joyce8 @ umbc.edu)  
+**Technical Advisor:** Seamus Burke (sburke1 @ umbc.edu)
 
-## <a name="meetings">Meetings</a>
+## <a name="meetings">Meetings
 
 We hold general meetings once a week. **No prior experience** is required to
 attend our meetings. We encourage anyone who wants to learn more about cyber
@@ -50,16 +46,6 @@ Our meetings vary in subject material week to week. If you have specific topics
 you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
-
-### Spring Semester Meetings
-
-Our meetings for the spring semester will build on the knowledge we learned in
-the fall semester. If you're new, no worries, you can still come; talk to us to
-see to what extent you might need to catch yourself up. Security's nowhere near
-as hard as people say, so don't be scared away :)
-
-This spring we will focus on reverse engineering and exploitation. See our
-calendar below for details.
 
 ### Fall Semester Meetings
 
@@ -86,7 +72,11 @@ related competitions. Here's what we're doing this semester:
 
 * Competing in the following competitions:
     * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
+    * Running the 2nd Annual Cyber Dawgs CDE
+    * ISTS
     * UMD CSEC's CTF
+    * CSAW 2018
+    * Kaizen CTF
     * Probably some others
 
 However, if these are all going to come to fruition, we need your help to
@@ -99,6 +89,7 @@ over the next year, so stay tuned...
 
 ## <a name="finishes">Competition Finishes</a>
 
+**MACCDC 2018**: 2nd Place <br/>
 **CSAW Finals 2017**: 7th place in North America, 11th overall  
 **CSAW Quals 2017**: 9th place (undergrad, North America), 46th overall, *qualified for North American finals*  
 **National CCDC 2017**: 1st place  
@@ -124,13 +115,10 @@ contact our secretary.
 
 ## <a name="activecyberdefense">CMSC 491 Active Cyber Defense class
 
-In fall 2017, our advisor set up a class that ran concurrently with our
+In Fall 2018, our advisor set up a class that ran concurrently with our
 meetings. If you were in this class or want to know more about it, take a look
 at the course website here:
 [https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/](https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/)
-
-This section is still here for historical interest, stay tuned for plans for
-next fall.
 
 ## UMBC Liaisons
 
