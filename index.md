@@ -72,7 +72,7 @@ related competitions. Here's what we're doing this semester:
 
 * Competing in the following competitions:
     * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
-    * Running the 2nd Annual Cyber Dawgs CDE
+    * We are running our 2nd Annual Cyber Defense Exercise (CDE) on October 20th, 2018 in PUP 105. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark you calendars!! 
     * ISTS
     * UMD CSEC's CTF
     * CSAW 2018
