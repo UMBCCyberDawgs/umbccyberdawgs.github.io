@@ -128,12 +128,17 @@ at the course website here:
 * Dr. Richard Forno (rforno @ umbc.edu)  
 
 ### Corporate Relations
-*  Natalie Brianas (nbrianas @ umbc.edu) 
+*  Caroline Baker (cbaker @ umbc.edu) 
 
 
 ### License
 
 [MIT License](http://umbccyberdawgs.github.io/LICENSE.txt)
+
+## Club Sponsors
+
+## <img src="/images/parsons.png" height="25%" width="25%"> 
+## <img src="/images/tensley.jpg" height="25%" width="25%">
 
 ---
 [^1]: You must have a umbc.edu email address to signup on Slack.
