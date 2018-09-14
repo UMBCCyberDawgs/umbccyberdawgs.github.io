@@ -115,7 +115,7 @@ contact our secretary.
 
 ## <a name="activecyberdefense">CMSC 491 Active Cyber Defense class
 
-In Fall 2019, our advisor set up a class that runs concurrently with our
+In Fall 2018, our advisor set up a class that runs concurrently with our
 meetings. If you are in this class or want to know more about it, take a look
 at the course website here:
 [https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/](https://www.csee.umbc.edu/courses/undergraduate/CMSC491activeCyber/)
