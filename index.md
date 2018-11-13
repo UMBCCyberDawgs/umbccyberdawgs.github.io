@@ -89,7 +89,9 @@ over the next year, so stay tuned...
 
 ## <a name="finishes">Competition Finishes</a>
 
-**MACCDC 2018**: 2nd Place <br/>
+**CSAW Finals 2018**: 10th place in US-Canada, 27th overall  
+**CSAW Quals 2018**: 10th place (undergrad, North America), 37th overall, *qualified for North American finals*  
+**MACCDC 2018**: 2nd Place  
 **CSAW Finals 2017**: 7th place in North America, 11th overall  
 **CSAW Quals 2017**: 9th place (undergrad, North America), 46th overall, *qualified for North American finals*  
 **National CCDC 2017**: 1st place  
