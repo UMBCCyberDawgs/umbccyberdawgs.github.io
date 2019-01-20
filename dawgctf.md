@@ -1,19 +1,19 @@
 ---
 layout: subpage
-title: DawgCTF 2018
-description: DawgCTF will be a Jeopardy style CTF open to all undergraduate college students. It will be held in the UMBC University Center Ballroom on Sunday, March 11 from 10am-5pm.
+title: DawgCTF 2019
+description: DawgCTF will be a Jeopardy style CTF open to all undergraduate college students. It will be held in the UMBC University Center Ballroom on Saturday, March 2nd from 10am-6pm.
 ---
 
-# DawgCTF 2018
+# DawgCTF 2019
 
 The [UMBC Cyber Dawgs](http://umbccd.umbc.edu/) are hosting our second annual
-CTF on Sunday, March 11 from 11am-7pm.
+CTF on Saturday, March 2 from 10am-6pm.
 
-Registration is required, please fill out the [registration form](https://goo.gl/forms/g2oxUMeyKYlf2QVD3). Each team member must register individually, you can form teams when you get here.
+Registration is required, please fill out the [registration form](https://goo.gl/forms/svhN8pkdEyfy4gme2). Each team member must register individually, you can form teams when you get here.
 
 DawgCTF will be a Jeopardy style CTF open to all undergraduate college students
 (we might allow some grad students, talk to us). It will be held in the UMBC
-University Center Ballroom. Lunch and dinner will be provided.
+University Center Ballroom. breakfast and lunch will be provided.
 
 This will be a team competition. Team size is 4, but you can play by yourself if
 you want.
@@ -28,15 +28,15 @@ knowledge. CTF veterans will have lots of fun with our harder challenges.
 We will have challenges in the following areas: Crypto, RE, Pwn, Web, Misc, and
 whatever else we feel like creating!
 
-If you have questions, please contact our vice president Chris Gardner (his
+If you have questions, please contact our vice president Zack Orndorff (his
 email can be found on the webpage linked above.
 
 ## TL; DR
 
-* DawgCTF - be there - Sunday March 11, 11am-7pm
-* **Registration is required**, please fill out the [registration form](https://goo.gl/forms/g2oxUMeyKYlf2QVD3). All competitors must register individually.
+* DawgCTF - be there - Sunday March 2, 10am-6pm
+* **Registration is required**, please fill out the [registration form](https://goo.gl/forms/svhN8pkdEyfy4gme2). All competitors must register individually.
 * Location: UMBC University Center Ballroom
 * Jeopardy style
 * Team size is 4
 * Prizes will be awarded
-* We're providing lunch and dinner
+* We're providing breakfast and lunch

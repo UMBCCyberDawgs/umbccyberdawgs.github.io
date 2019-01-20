@@ -7,6 +7,10 @@ layout: default
 Welcome to the UMBC Cyber Dawgs' homepage. We are a group of UMBC students who
 share a common interest in computer and network security.
 
+## DawgCTF 2019
+
+Our spring CTF registration is live. For event information and registration, visit our [DawgCTF 2019] (http://umbccd.umbc.edu/dawgctf) page.
+
 ## How to get involved 
 
 There are a few things you can do to get involved with the club.
@@ -14,7 +18,7 @@ There are a few things you can do to get involved with the club.
 1. Join our [mailing list](#mailinglist)
 2. Checkout the [calendar](#calendar)
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the fall semester is **PUP 105**, but please watch
+    * Meeting location for the fall semester is **TBD**, but please watch
     our mailing list for potential updates.
 4. Join our [Slack](https://umbccd.slack.com)[^1]
 5. Check out our [Github](https://github.com/UMBCCyberDawgs)
@@ -47,18 +51,14 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
-### Fall Semester Meetings
+### Spring Semester Meetings
 
-Our meetings for the fall semester are an introduction to computer security. We
-will go over many of the foundational topics in computer security, so if you're
-a beginner, you're in luck.
+Our meetings for the spring semester will build on the knowledge we learned in the fall semester. 
+If you're new, no worries, you can still come; talk to us to see to what extent you might need to 
+catch yourself up. Security's nowhere near as hard as people say, so don't be scared away :)
 
-If you already have experience, don't worry-you'll be able to meet like-minded
-folks, and we will have plenty of more challenging activities available.
-
-Our meetings for the spring semester will likely continue with that trend, but
-we will go more in depth. Previous spring topics include reverse engineering and
-cryptography. We will discuss plans at the end of the fall semester.
+This spring we will go more in depth in topics discussed from the fall, previous topics include reverese
+engineering and exploitation. See our calendar below for details.
 
 ## Planned Projects and Activities
 
