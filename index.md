@@ -9,7 +9,7 @@ share a common interest in computer and network security.
 
 ## DawgCTF 2019
 
-Our spring CTF registration is live. For event information and registration, visit our [DawgCTF 2019] (http://umbccd.umbc.edu/dawgctf) page.
+Our spring CTF registration is live. For event information and registration, visit our [DawgCTF 2019](/dawgctf) page.
 
 ## How to get involved 
 
