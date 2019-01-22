@@ -33,7 +33,7 @@ email can be found on the webpage linked above.
 
 ## TL; DR
 
-* DawgCTF - be there - Sunday March 2, 10am-6pm
+* DawgCTF - be there - Saturday March 2, 10am-6pm
 * **Registration is required**, please fill out the [registration form](https://goo.gl/forms/svhN8pkdEyfy4gme2). All competitors must register individually.
 * Location: UMBC University Center Ballroom
 * Jeopardy style
