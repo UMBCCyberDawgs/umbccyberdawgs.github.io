@@ -141,6 +141,7 @@ at the course website here:
 
 ## <img src="/images/parsons.png" height="25%" width="25%"> 
 ## <img src="/images/tensley.jpg" height="25%" width="25%">
+## <img src="/images/bluestar.png" height="50%" width="40%">
 
 ---
 [^1]: You must have a umbc.edu email address to signup on Slack.
