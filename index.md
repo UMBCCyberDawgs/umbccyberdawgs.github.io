@@ -89,6 +89,7 @@ over the next year, so stay tuned...
 
 ## <a name="finishes">Competition Finishes</a>
 
+**ISTS 17**: 1st Place
 **CSAW Finals 2018**: 10th place in US-Canada, 27th overall  
 **CSAW Quals 2018**: 10th place (undergrad, North America), 37th overall, *qualified for North American finals*  
 **MACCDC 2018**: 2nd Place  
