@@ -7,10 +7,6 @@ layout: default
 Welcome to the UMBC Cyber Dawgs' homepage. We are a group of UMBC students who
 share a common interest in computer and network security.
 
-## DawgCTF 2019
-
-Our spring CTF registration is live. For event information and registration, visit our [DawgCTF 2019](/dawgctf) page.
-
 ## How to get involved 
 
 There are a few things you can do to get involved with the club.
