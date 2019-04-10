@@ -89,6 +89,7 @@ over the next year, so stay tuned...
 
 ## <a name="finishes">Competition Finishes</a>
 
+**Mid Atlantic CCDC 2019**: 5th Place<br>
 **ISTS 17**: 1st Place<br>
 **CSAW Finals 2018**: 10th place in US-Canada, 27th overall  
 **CSAW Quals 2018**: 10th place (undergrad, North America), 37th overall, *qualified for North American finals*  
