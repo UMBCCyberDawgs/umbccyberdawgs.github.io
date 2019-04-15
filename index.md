@@ -84,7 +84,7 @@ over the next year, so stay tuned...
 </div>
 
 ## <a name="finishes">Competition Finishes</a>
-
+**Boston Marathon**: Qualifier and Finisher<br>
 **Mid Atlantic CCDC 2019**: 5th Place<br>
 **ISTS 17**: 1st Place<br>
 **CSAW Finals 2018**: 10th place in US-Canada, 27th overall  
