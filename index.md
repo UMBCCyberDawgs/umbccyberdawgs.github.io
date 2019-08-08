@@ -26,7 +26,7 @@ There are a few things you can do to get involved with the club.
 **Secretary:** Jackie Schultz (jschult1 @ umbc.edu)  
 **Treasurer:** Amina Mahmood (amina3 @ umbc.edu)<br/>
 **Historian:** RJ Joyce (joyce8 @ umbc.edu)  
-**Technical Advisor:** Cyrus Jian Bonyadi (rangemaster @ umbc.edu)
+**Technical Advisor:** Cyrus Bonyadi (rangemaster @ umbc.edu)
 
 ## <a name="meetings">Meetings
 
