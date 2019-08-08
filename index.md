@@ -21,12 +21,12 @@ There are a few things you can do to get involved with the club.
 
 ## Current Board
 
-**President:** Kevin Bilzer (kbilzer1 @ umbc.edu)  
-**Vice President:** Zack Orndorff (zo1 @ umbc.edu)  
-**Secretary:** Andrew Sciandra (asciand1 @ umbc.edu)  
+**President:** Anna Staats (astaats1 @ umbc.edu)  
+**Vice President:** Seamus Burke (sburke1 @ umbc.edu) 
+**Secretary:** Jackie Schultz (jschult1 @ umbc.edu)  
 **Treasurer:** Amina Mahmood (amina3 @ umbc.edu)<br/>
 **Historian:** RJ Joyce (joyce8 @ umbc.edu)  
-**Technical Advisor:** Seamus Burke (sburke1 @ umbc.edu)
+**Technical Advisor:** Cyrus Jian Bonyadi (rangemaster @ umbc.edu)
 
 ## <a name="meetings">Meetings
 
