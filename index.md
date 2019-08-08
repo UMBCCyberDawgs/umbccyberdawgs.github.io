@@ -22,11 +22,12 @@ There are a few things you can do to get involved with the club.
 ## Current Board
 
 **President:** Anna Staats (astaats1 @ umbc.edu)  
-**Vice President:** Seamus Burke (sburke1 @ umbc.edu) 
+**Vice President:** Seamus Burke (sburke1 @ umbc.edu)  
 **Secretary:** Jackie Schultz (jschult1 @ umbc.edu)  
-**Treasurer:** Amina Mahmood (amina3 @ umbc.edu)<br/>
+**Treasurer:** Amina Mahmood (amina3 @ umbc.edu)  
 **Historian:** RJ Joyce (joyce8 @ umbc.edu)  
-**Technical Advisor:** Cyrus Bonyadi (rangemaster @ umbc.edu)
+**Technical Advisor:** Cyrus Bonyadi (rangemaster @ umbc.edu)  
+**Technical Assistant:** Ben Ireland (birelan1 @ umbc.edu)
 
 ## <a name="meetings">Meetings
 
