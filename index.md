@@ -27,7 +27,7 @@ There are a few things you can do to get involved with the club.
 **Treasurer:** Amina Mahmood (amina3 @ umbc.edu)  
 **Historian:** RJ Joyce (joyce8 @ umbc.edu)  
 **Technical Advisor:** Cyrus Bonyadi (rangemaster @ umbc.edu)  
-**Assistant to the Technical Advisor:** Ben Ireland (birelan1 @ umbc.edu)
+**Assistant \[to the\] Technical Advisor:** Garnt Spencer (spgr1 @ umbc.edu)
 
 ## <a name="meetings">Meetings
 
