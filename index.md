@@ -48,13 +48,12 @@ you would like to learn more about please email our club secretary. If you
 would like to present a talk or teach a new skill please email our club
 president.
 
-### Spring Semester Meetings
+### Fall Semester Meetings
 
-Our meetings for the spring semester will build on the knowledge we learned in the fall semester. 
 If you're new, no worries, you can still come; talk to us to see to what extent you might need to 
 catch yourself up. Security's nowhere near as hard as people say, so don't be scared away :)
 
-This spring we will go more in depth in topics discussed from the fall, previous topics include reverese
+This fall we will go in depth in similar topics to past years, previous topics include reverse
 engineering and exploitation. See our calendar below for details.
 
 ## Planned Projects and Activities
@@ -63,16 +62,18 @@ Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
 related competitions. Here's what we're doing this semester:
 
-* Hosting a CTF (Capture the Flag) event at UMBC. It'll be accessible to
-  beginners, but entertaining for all. We did this last year, and we're all
-  looking forward to it. See details at the top of the page.
+* We are running our 3rd Annual Cyber Defense Exercise (CDE) on October 26th, 2019 in PUP 105. CDE is a miniature version of our   biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
+
+* Hosting a CTF (Cyber Defense Exercise) event at UMBC. It'll be accessible to
+beginners, but entertaining for all. We did this last year, and we're all
+looking forward to it. See details at the top of the page.
 
 * Competing in the following competitions:
-    * [CCDC (Collegiate Cyber Defense Competition)](http://maccdc.org/) (Spring)
-    * We are running our 2nd Annual Cyber Defense Exercise (CDE) on October 20th, 2018 in PUP 105. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
+    * [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
+    * CSAW 2019
     * ISTS
     * UMD CSEC's CTF
-    * CSAW 2018
+    * MACCDC 2020
     * Kaizen CTF
     * Probably some others
 
