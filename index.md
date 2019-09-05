@@ -62,7 +62,7 @@ Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
 related competitions. Here's what we're doing this semester:
 
-* We are running our 3rd Annual Cyber Defense Exercise (CDE) on October 26th, 2019 in PUP 105. CDE is a miniature version of our   biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
+* We are running our 3rd Annual Cyber Defense Exercise (CDE) on October 19th, 2019 in PUP 105. CDE is a miniature version of our   biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
 
 * Hosting a CTF (Cyber Defense Exercise) event at UMBC. It'll be accessible to
 beginners, but entertaining for all. We did this last year, and we're all
