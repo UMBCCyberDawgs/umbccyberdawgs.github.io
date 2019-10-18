@@ -140,7 +140,7 @@ at the course website here:
 
 ## Club Sponsors
 
-## <img src="/images/percival.png" height="25%" width="25%"> 
+## <img src="/images/percival.png" height="100%" width="100%"> 
 ## <img src="/images/tensley.jpg" height="25%" width="25%">
 ## <img src="/images/bluestar.png" height="50%" width="40%">
 
