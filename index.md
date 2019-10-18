@@ -28,7 +28,7 @@ There are a few things you can do to get involved with the club.
 **Historian:** RJ Joyce (joyce8 @ umbc.edu)  
 **Technical Director:** Cyrus Bonyadi (rangemaster @ umbc.edu)  
 **Assistant \[to the\] Technical Director:** Drew Barrett (dbarret1 @ umbc.edu)  
-**Assistant \[to the\] Assistant \[to the\] Technical Director:** Garnt Spencer (spgr1 @ umbc.edu)  
+**Assistant \[to the\] Assistant \[to the\] Technical Director:** Joe Aurelio (jaurelio @ umbc.edu)  
 
 ## <a name="meetings">Meetings
 
@@ -140,7 +140,7 @@ at the course website here:
 
 ## Club Sponsors
 
-## <img src="/images/parsons.png" height="25%" width="25%"> 
+## <img src="/images/percival.png" height="25%" width="25%"> 
 ## <img src="/images/tensley.jpg" height="25%" width="25%">
 ## <img src="/images/bluestar.png" height="50%" width="40%">
 
