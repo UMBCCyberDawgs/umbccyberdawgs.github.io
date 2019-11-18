@@ -90,7 +90,7 @@ over the next year, so stay tuned...
 **DoE Cyberforce 2019**: National 1st place  
 **Boston Marathon**: Qualifier and Finisher  
 **Mid Atlantic CCDC 2019**: 5th Place  
-**ISTS 17**: 1st Place 
+**ISTS 17**: 1st Place  
 **DoE Cyberforce 2018**: Brookhaven 1st place, 12th overall  
 **CSAW Finals 2018**: 10th place in US-Canada, 27th overall  
 **CSAW Quals 2018**: 10th place (undergrad, North America), 37th overall, *qualified for North American finals*  
