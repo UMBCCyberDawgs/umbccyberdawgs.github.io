@@ -72,7 +72,6 @@ looking forward to it. Sign up [here](https://forms.gle/V3sezPc6i9pqcG1f9).
 * Competing in the following competitions:
     * [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
     * CSAW 2019
-    * ISTS
     * UMD CSEC's CTF
     * MACCDC 2020
     * Kaizen CTF
@@ -87,7 +86,7 @@ over the next year, so stay tuned...
 </div>
 
 ## <a name="finishes">Competition Finishes</a>
-**DoE Cyberforce 2019**: National 1st place
+**DoE Cyberforce 2019**: National 1st place  
 **Boston Marathon**: Qualifier and Finisher  
 **Mid Atlantic CCDC 2019**: 5th Place  
 **ISTS 17**: 1st Place  
