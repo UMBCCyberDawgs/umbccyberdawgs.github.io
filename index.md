@@ -7,6 +7,11 @@ layout: default
 Welcome to the UMBC Cyber Dawgs' homepage. We are a group of UMBC students who
 share a common interest in computer and network security.
 
+## Next hosted event
+
+DawgCTF 2020, April 11th, 2020  
+Sign up [here](https://forms.gle/V3sezPc6i9pqcG1f9).
+
 ## How to get involved 
 
 There are a few things you can do to get involved with the club.
