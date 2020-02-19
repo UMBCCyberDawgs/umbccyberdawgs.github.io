@@ -24,7 +24,7 @@ There are a few things you can do to get involved with the club.
 **President:** Anna Staats (astaats1 @ umbc.edu)  
 **Vice President:** Seamus Burke (sburke1 @ umbc.edu)  
 **Secretary:** Jackie Schultz (jschult1 @ umbc.edu)  
-**Treasurer:** Amina Mahmood (amina3 @ umbc.edu)  
+**Treasurer:** Thaddeus Atkins (watkins7 @ umbc.edu)  
 **Historian:** RJ Joyce (joyce8 @ umbc.edu)  
 **Technical Director:** Cyrus Bonyadi (rangemaster @ umbc.edu)  
 **Assistant \[to the\] Technical Director:** Drew Barrett (dbarret1 @ umbc.edu)  
@@ -65,9 +65,9 @@ related competitions. Here's what we're doing this semester:
 
 * We are running our 3rd Annual Cyber Defense Exercise (CDE) on October 19th, 2019 in PUP 105. CDE is a miniature version of our   biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
 
-* Hosting a CTF (Cyber Defense Exercise) event at UMBC. It'll be accessible to
+* Hosting a CTF (Capture the Flag) event at UMBC. It'll be accessible to
 beginners, but entertaining for all. We did this last year, and we're all
-looking forward to it. See details at the top of the page.
+looking forward to it. Sign up [here](https://forms.gle/V3sezPc6i9pqcG1f9).
 
 * Competing in the following competitions:
     * [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
@@ -87,7 +87,7 @@ over the next year, so stay tuned...
 </div>
 
 ## <a name="finishes">Competition Finishes</a>
-**DoE Cyberforce 2019**: National 1st place  
+**DoE Cyberforce 2019**: National 1st place
 **Boston Marathon**: Qualifier and Finisher  
 **Mid Atlantic CCDC 2019**: 5th Place  
 **ISTS 17**: 1st Place  
