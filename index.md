@@ -10,7 +10,7 @@ share a common interest in computer and network security.
 ## Next hosted event
 
 DawgCTF 2020, April 11th, 2020  
-Sign up [here](https://forms.gle/V3sezPc6i9pqcG1f9).
+Sign up [here](https://umbccd.umbc.edu/dawgctf).
 
 ## How to get involved 
 
