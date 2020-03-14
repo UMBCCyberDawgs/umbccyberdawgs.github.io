@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: DawgCTF 2020
-description: DawgCTF will be a Jeopardy style CTF open to all undergraduate college students. It will be held in the UMBC University Center Ballroom on Saturday, April 11th.
+description: DawgCTF will be a Jeopardy style CTF open to all undergraduate college students. It will be held online and in the UMBC University Center Ballroom on Saturday, April 11th.
 ---
 
 # DawgCTF 2020
@@ -38,4 +38,5 @@ If you have questions, please contact our president Anna Staats (her email can b
 * Max team size is 4
 * Prizes will be awarded
 * We're providing breakfast and lunch
+* You are able to compete online
 * **Some details are subject to change due to COVID-19**
