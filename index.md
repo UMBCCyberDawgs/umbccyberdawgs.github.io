@@ -91,7 +91,7 @@ over the next year, so stay tuned...
 </div>
 
 ## <a name="finishes">Competition Finishes</a>
-**National CCDC 2020**
+**National CCDC 2020**  
 **Mid Atlantic CCDC 2020**: 1st Place  
 **SANS NetWars Tournament of Champions 2020**: First Timers 1st place  
 **DoE Cyberforce 2019**: National 1st place  
