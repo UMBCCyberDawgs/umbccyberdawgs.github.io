@@ -26,14 +26,14 @@ There are a few things you can do to get involved with the club.
 
 ## Current Board
 
-**President:** Anna Staats (astaats1 @ umbc.edu)  
-**Vice President:** Seamus Burke (sburke1 @ umbc.edu)  
-**Secretary:** Jackie Schultz (jschult1 @ umbc.edu)  
+**President:** Chris Skane (chrisk3 @ umbc.edu)  
+**Vice President:** Henry Budris (hbudris1 @ umbc.edu)  
+**Secretary:** Joe Aurelio (jaurelio @ umbc.edu)  
 **Treasurer:** Thaddeus Atkins (watkins7 @ umbc.edu)  
 **Chief Historical Officer:** RJ Joyce (joyce8 @ umbc.edu)  
-**Technical Director:** Cyrus Bonyadi (rangemaster @ umbc.edu)  
-**Assistant \[to the\] Technical Director:** Drew Barrett (dbarret1 @ umbc.edu)  
-**Assistant \[to the\] Assistant \[to the\] Technical Director:** Joe Aurelio (jaurelio @ umbc.edu)  
+**Technical Director:** Richard Baldwin (rangemaster @ umbc.edu)  
+**Assistant \[to the\] Technical Director:** Cyrus Bonyadi (cbonyad1 @ umbc.edu)  
+**Assistant \[to the\] Assistant \[to the\] Technical Director:** Nikola Bura (nbura1 @ umbc.edu)  
 
 ## <a name="meetings">Meetings
 
