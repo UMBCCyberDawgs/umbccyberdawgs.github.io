@@ -9,8 +9,7 @@ share a common interest in computer and network security.
 
 ## Next hosted event
 
-DawgCTF 2020, April 11th, 2020  
-Sign up [here](https://umbccd.io).
+DawgCTF 2022, March or April of 2022
 
 ## How to get involved 
 
@@ -26,14 +25,15 @@ There are a few things you can do to get involved with the club.
 
 ## Current Board
 
-**President:** Chris Skane (chrisk3 @ umbc.edu)  
-**Vice President:** Henry Budris (hbudris1 @ umbc.edu)  
-**Secretary:** Joe Aurelio (jaurelio @ umbc.edu)  
-**Treasurer:** Thaddeus Atkins (watkins7 @ umbc.edu)  
+**President:** Henry Budris (hbudris1 @ umbc.edu)  
+**Vice President:** Rob Shovan (rshovan1 @ umbc.edu)  
+**Treasurer:** Nithya Prakash (n64 @ umbc.edu)  
+**Secretary:** Chris Hamer (chamer1 @ umbc.edu)  
 **Chief Historical Officer:** RJ Joyce (joyce8 @ umbc.edu)  
 **Technical Director:** Richard Baldwin (rangemaster @ umbc.edu)  
-**Assistant \[to the\] Technical Director:** Cyrus Bonyadi (cbonyad1 @ umbc.edu)  
-**Assistant \[to the\] Assistant \[to the\] Technical Director:** Nikola Bura (nbura1 @ umbc.edu)  
+**Assistant Technical Director:** Chris Skane (chrisk3 @ umbc.edu)  
+**Assistant Technical Director:** Nikola Bura (nbura1 @ umbc.edu)  
+**Assistant Gumby Leader:** Naomi Albert (albert10 @ umbc.edu)  
 
 ## <a name="meetings">Meetings
 
@@ -66,19 +66,17 @@ engineering and exploitation. See our calendar below for details.
 
 Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
-related competitions. Here's what we're doing this year:
+related competitions. Here's what we're doing:
 
-* Hosting a CTF (Capture the Flag) event at UMBC. It'll be accessible to
-beginners, but entertaining for all. We did this last year, and we're all
-looking forward to it. Sign up [here](https://forms.gle/V3sezPc6i9pqcG1f9).
+* We host a CTF (Capture the Flag) event at UMBC every year: DawgCTF. It is accessible to beginners, but entertaining for all. https://umbccd.io
 
-* We are running our 4th Annual Cyber Defense Exercise (CDE) in Fall of 2020 in PUP 105. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
+* We are running our 5th Annual Cyber Defense Exercise (CDE) in Fall of 2021. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
 
 * Competing in the following competitions:
     * [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
-    * CSAW 2019
+    * CSAW 2021
     * UMD CSEC's CTF
-    * MACCDC 2020
+    * MACCDC and hopefully NCCDC
     * Kaizen CTF
     * Probably some others
 
@@ -91,26 +89,35 @@ over the next year, so stay tuned...
 </div>
 
 ## <a name="finishes">Competition Finishes</a>
-**National CCDC 2020**: 5th Place  
-**Mid Atlantic CCDC 2020**: 1st Place, *advanced to national CCDC*  
-**SANS NetWars Tournament of Champions 2020**: First Timers 1st place  
-**DoE Cyberforce 2019**: National 1st place  
+**National CCDC 2021**: 7<sup>th</sup> place  
+**Mid Atlantic CCDC 2021**: 1st place, *advanced to national CCDC*  
+**ISTS 2021**: 4<sup>th</sup> place
+
+**National CCDC 2020**: 5<sup>th</sup> place  
+**Mid Atlantic CCDC 2020**: 1<sup>st</sup> place, *advanced to national CCDC*  
+**SANS NetWars Tournament of Champions 2020**: First Timers 1<sup>st</sup> Place
+
+**DoE Cyberforce 2019**: National 1<sup>st</sup> Place  
 **Boston Marathon**: Qualifier and Finisher  
-**Mid Atlantic CCDC 2019**: 5th Place  
-**ISTS 17**: 1st Place  
-**DoE Cyberforce 2018**: Brookhaven 1st place, 12th overall  
-**CSAW Finals 2018**: 10th place in US-Canada, 27th overall  
-**CSAW Quals 2018**: 10th place (undergrad, North America), 37th overall, *qualified for North American finals*  
-**MACCDC 2018**: 2nd Place  
-**CSAW Finals 2017**: 7th place in North America, 11th overall  
-**CSAW Quals 2017**: 9th place (undergrad, North America), 46th overall, *qualified for North American finals*  
-**National CCDC 2017**: 1st place  
-**Mid Atlantic CCDC 2017**: 1st place, *advanced to national CCDC*  
-**CSAW 2016**: 16th (undergrad, North America)  
-**Mid Atlantic CCDC 2016**: 4th place  
-**MDC3 2015**: 1st place  
-**National CCDC 2015**: 4th place  
-**Mid Atlantic CCDC 2015**: 1st place, *advanced to national CCDC*  
+**Mid Atlantic CCDC 2019**: 5<sup>th</sup> Place  
+**ISTS 17 (2019)**: 1<sup>st</sup> Place
+   
+**DoE Cyberforce 2018**: Brookhaven 1<sup>st</sup> place, 12<sup>th</sup> overall  
+**CSAW Finals 2018**: 10<sup>th</sup> place in US-Canada, 27<sup>th</sup> overall  
+**CSAW Quals 2018**: 10<sup>th</sup> place (undergrad, North America), 37<sup>th</sup> overall, *qualified for North American finals*  
+**MACCDC 2018**: 2nd Place
+
+**CSAW Finals 2017**: 7<sup>th</sup> place in North America, 11<sup>th</sup> overall  
+**CSAW Quals 2017**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals*  
+**National CCDC 2017**: 1<sup>st</sup> place  
+**Mid Atlantic CCDC 2017**: 1<sup>st</sup> place, *advanced to national CCDC*
+ 
+**CSAW 2016**: 16<sup>th</sup> (undergrad, North America)  
+**Mid Atlantic CCDC 2016**: 4<sup>th</sup> place
+ 
+**MDC3 2015**: 1<sup>st</sup> place  
+**National CCDC 2015**: 4<sup>th</sup> place  
+**Mid Atlantic CCDC 2015**: 1<sup>st</sup> place, *advanced to national CCDC*  
 
 *Past club members: if we’re missing anything, please contact our secretary!*
 
