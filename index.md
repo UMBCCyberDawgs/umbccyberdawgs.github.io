@@ -9,7 +9,7 @@ share a common interest in computer and network security.
 
 ## Next hosted event
 
-DawgCTF 2022, March or April of 2022
+DawgCTF 2022, April 29th - May 1st 2022. Go to https://umbccd.net
 
 ## How to get involved 
 
@@ -20,15 +20,14 @@ There are a few things you can do to get involved with the club.
 3. Attend our weekly [meetings](#meetings)
     * Meeting location for the fall semester is **TBD**, but please watch
     our mailing list for potential updates.
-4. Join our [Slack](https://umbccd.slack.com)[^1]
-5. Check out our [Github](https://github.com/UMBCCyberDawgs)
+4. Check out our [Github](https://github.com/UMBCCyberDawgs)
 
 ## Current Board
 
 **President:** Henry Budris (hbudris1 @ umbc.edu)  
 **Vice President:** Rob Shovan (rshovan1 @ umbc.edu)  
 **Treasurer:** Nithya Prakash (n64 @ umbc.edu)  
-**Secretary:** Chris Hamer (chamer1 @ umbc.edu)  
+**Secretary:** Sophia Hamer (chamer1 @ umbc.edu)  
 **Chief Historical Officer:** RJ Joyce (joyce8 @ umbc.edu)  
 **Technical Director:** Richard Baldwin (rangemaster @ umbc.edu)  
 **Assistant Technical Director:** Chris Skane (chrisk3 @ umbc.edu)  
@@ -68,7 +67,7 @@ Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
 related competitions. Here's what we're doing:
 
-* We host a CTF (Capture the Flag) event at UMBC every year: DawgCTF. It is accessible to beginners, but entertaining for all. https://umbccd.io
+* We host a CTF (Capture the Flag) event at UMBC every year: DawgCTF. It is accessible to beginners, but entertaining for all. https://umbccd.net
 
 * We are running our 5th Annual Cyber Defense Exercise (CDE) in Fall of 2021. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
 
@@ -163,5 +162,3 @@ at the course website here:
 ## <img src="/images/percival.png" height="50%" width="40%"> 
 ## <img src="/images/novetta.jpg" height="50%" width="40%"> 
 
----
-[^1]: You must have a umbc.edu email address to signup on Slack.
