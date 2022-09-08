@@ -19,6 +19,8 @@ There are a few things you can do to get involved with the club.
 2. Checkout the [calendar](#calendar)
 3. Attend our weekly [meetings](#meetings)
     * Meeting location for the fall semester is PUB 105 with a hybrid/virtual option on [Webex](https://umbc.webex.com/umbc/j.php?MTID=m5bf61fcdac399940e710ea4f2d120b08)
+      * Must use UMBC email 
+    * Meeting time is 7:10pm - 9:25pm
 4. Check out our [Github](https://github.com/UMBCCyberDawgs)
 
 ## Current Board
@@ -29,8 +31,7 @@ There are a few things you can do to get involved with the club.
 **Secretary:** Michal Magidson (michalm1 @ umbc.edu)  
 **Chief Historical Officer:** Sophia Hamer (chamer1 @ umbc.edu)  
 **Technical Director:** Richard Baldwin (rangemaster @ umbc.edu)  
-**Assistant Technical Director:** Chris Skane (chrisk3 @ umbc.edu)  
-**Assistant Technical Director:** Nikola Bura (nbura1 @ umbc.edu)  
+
 
 ## <a name="meetings">Meetings
 
