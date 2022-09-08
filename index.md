@@ -9,7 +9,7 @@ share a common interest in computer and network security.
 
 ## Next hosted event
 
-DawgCTF 2022, April 29th - May 1st 2022. Go to https://umbccd.net
+Cyber Defense Exercise (CDE), October 22nd 2022
 
 ## How to get involved 
 
@@ -18,21 +18,19 @@ There are a few things you can do to get involved with the club.
 1. Join our [mailing list](#mailinglist)
 2. Checkout the [calendar](#calendar)
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the fall semester is **TBD**, but please watch
-    our mailing list for potential updates.
+    * Meeting location for the fall semester is PUB 105 with a hybrid/virtual option on [Webex](https://umbc.webex.com/umbc/j.php?MTID=m5bf61fcdac399940e710ea4f2d120b08)
 4. Check out our [Github](https://github.com/UMBCCyberDawgs)
 
 ## Current Board
 
-**President:** Henry Budris (hbudris1 @ umbc.edu)  
-**Vice President:** Rob Shovan (rshovan1 @ umbc.edu)  
-**Treasurer:** Nithya Prakash (n64 @ umbc.edu)  
-**Secretary:** Sophia Hamer (chamer1 @ umbc.edu)  
-**Chief Historical Officer:** RJ Joyce (joyce8 @ umbc.edu)  
+**President:** Daniel Williams (dwillia2 @ umbc.edu)  
+**Vice President:** Ben Nordmann (nordman1 @ umbc.edu)     
+**Treasurer:** Carter Gerhardt (carterg2 @ umbc.edu)  
+**Secretary:** Michal Magidson (michalm1 @ umbc.edu)  
+**Chief Historical Officer:** Sophia Hamer (chamer1 @ umbc.edu)  
 **Technical Director:** Richard Baldwin (rangemaster @ umbc.edu)  
 **Assistant Technical Director:** Chris Skane (chrisk3 @ umbc.edu)  
 **Assistant Technical Director:** Nikola Bura (nbura1 @ umbc.edu)  
-**Assistant Gumby Leader:** Naomi Albert (albert10 @ umbc.edu)  
 
 ## <a name="meetings">Meetings
 
@@ -67,13 +65,13 @@ Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
 related competitions. Here's what we're doing:
 
-* We host a CTF (Capture the Flag) event at UMBC every year: DawgCTF. It is accessible to beginners, but entertaining for all. https://umbccd.net
+* We host a CTF (Capture the Flag) event at UMBC every year: DawgCTF. It is accessible to beginners, but entertaining for all.
 
-* We are running our 5th Annual Cyber Defense Exercise (CDE) in Fall of 2021. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
+* We are running our 6th Annual Cyber Defense Exercise (CDE) in Fall of 2022. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
 
 * Competing in the following competitions:
     * [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
-    * CSAW 2021
+    * CSAW 2022
     * UMD CSEC's CTF
     * MACCDC and hopefully NCCDC
     * Kaizen CTF
