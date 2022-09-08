@@ -154,10 +154,7 @@ at the course website here:
 
 ## Club Sponsors
 
-## <img src="/images/tensley.jpg" height="25%" width="25%">
 ## <img src="/images/bluestar.png" height="50%" width="40%">
-## <img src="/images/clearedge.png" height="70%" width="50%">
-## <img src="/images/hackerone.png" height="50%" width="50%">
 ## <img src="/images/percival.png" height="50%" width="40%"> 
 ## <img src="/images/novetta.jpg" height="50%" width="40%"> 
 
