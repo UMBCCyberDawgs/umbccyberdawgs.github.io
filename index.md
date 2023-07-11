@@ -31,7 +31,6 @@ There are a few things you can do to get involved with the club.
 **Secretary:** Jeremy Romanik Romano (jeremyr2 @ umbc.edu)  
 **Chief Historical Officer:** Sophia Hamer (chamer1 @ umbc.edu)  
 **Senior Infrastructure Engineer:** Kevin Chen (kevin.chen @ umbc.edu)  
-**Infrastructure Engineer:** Griffin Sober (gsober1 @ umbc.edu)  
 
 ## <a name="meetings">Meetings
 
