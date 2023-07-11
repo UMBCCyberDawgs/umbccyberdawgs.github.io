@@ -25,13 +25,13 @@ There are a few things you can do to get involved with the club.
 
 ## Current Board
 
-**President:** Daniel Williams (dwillia2 @ umbc.edu)  
-**Vice President:** Ben Nordmann (nordman1 @ umbc.edu)     
-**Treasurer:** Carter Gerhardt (carterg2 @ umbc.edu)  
-**Secretary:** Michal Magidson (michalm1 @ umbc.edu)  
+**President:** William Brooks (wbrooks1 @ umbc.edu)  
+**Vice President:** Kei-Won-Tia von Wrex (keiwontia @ umbc.edu)     
+**Treasurer:** Zachary Amoss (zamoss1 @ umbc.edu)  
+**Secretary:** Jeremy Romanik Romano (jeremyr2 @ umbc.edu)  
 **Chief Historical Officer:** Sophia Hamer (chamer1 @ umbc.edu)  
-**Technical Director:** Richard Baldwin (rangemaster @ umbc.edu)  
-
+**Senior Infrastructure Engineer:** Kevin Chen (kevin.chen @ umbc.edu)  
+**Infrastructure Engineer:** Griffin Sober (gsober1 @ umbc.edu)  
 
 ## <a name="meetings">Meetings
 
