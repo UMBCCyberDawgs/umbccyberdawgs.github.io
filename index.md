@@ -9,7 +9,7 @@ share a common interest in cybersecurity and good security practice in all aspec
 
 ## Next Event
 
-CyberPaws CTF opening & involvment Fest, September 6, 2023.
+CyberPaws CTF opening & involvement Fest, September 6, 2023.
 
 ## How To Get Involved 
 
@@ -37,9 +37,9 @@ No prior experience is required to attend or participate in our meetings.
 * An environment conducive to learning relevant tools and techniques
 * A place to meet like-minded students and discuss all things cyber and computing security
 
-Our meetings vary in subject material week to week. If you have specific topics
-you would like to learn more about please email our club secretary. If you
-would like to present a talk or teach a new skill please email our club
+Our meetings vary in subject material from week to week. If you have specific topics
+you would like to learn more about, please email our club secretary. If you
+would like to present a talk or teach a new skill, please email our club
 president.
 
 ## Club Events
@@ -56,7 +56,7 @@ related competitions. Here's what we're doing:
 
 * We are running our 6th Annual Cyber Defense Exercise (CDE) in Fall 2023. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
 
-* Finally, we host an end of semester celebration for all to attend
+* Finally, we host an end-of-semester celebration for all to attend
 
 <div style="text-align: center;">
    <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe></a>
@@ -64,7 +64,7 @@ related competitions. Here's what we're doing:
 
 ## <a name="finishes">Cyber Competition Team</a>
 
-The Cyberdawgs team is seperate from the club, but Lorem Ipsum Docet...
+Some of our club members try out for and compete together on a collegiate cyber security competition team. We compete under the same “CyberDawgs” name.
 
 ### Planned Competitions
 * [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
@@ -136,5 +136,5 @@ Assistant Director, UMBC Center for Cybersecurity
 ## <img src="/images/percival.png" height="50%" width="40%"> 
 ## <img src="/images/northropgrumman.jpg" height="50%" width="40%"> 
 
-<footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://docs.google.com/document/d/1oLk8Bjl57r9qLPbRUKJ6cvinRDHLY59fjX3vY8YVvL8/edit?usp=sharing">Constitution</a>|Don't Do Crime!</center></footer>
+<footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://constitutioncenter.org/the-constitution/full-text">Constitution</a>|Don't Do Crime!</center></footer>
 
