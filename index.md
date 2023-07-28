@@ -133,9 +133,7 @@ Assistant Director, UMBC Center for Cybersecurity
 
 ## Club Sponsors
 
-## <img src="/images/bluestar.png" height="50%" width="40%">
 ## <img src="/images/percival.png" height="50%" width="40%"> 
-## <img src="/images/novetta.jpg" height="50%" width="40%"> 
 ## <img src="/images/northropgrumman.jpg" height="50%" width="40%"> 
 
 <footer><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>)|<a href="https://docs.google.com/document/d/1oLk8Bjl57r9qLPbRUKJ6cvinRDHLY59fjX3vY8YVvL8/edit?usp=sharing">Constitution</a>|Don't Do Crime!</footer>
