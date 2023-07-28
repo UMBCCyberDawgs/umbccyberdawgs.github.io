@@ -1,7 +1,7 @@
 # Site settings
-title: UMBC Cyber Dawgs
-tag_text: UMBC Cyber Dawgs
-description: UMBC Cyber Defense Team 
+title: UMBC CyberDawgs
+tag_text: UMBC CyberDawgs
+description: UMBC CyberDawgs Club Website
 
 # Build settings
 markdown: kramdown
