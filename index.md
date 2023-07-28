@@ -121,13 +121,13 @@ The Cyberdawgs team is seperate from the club, but Lorem Ipsum Docet...
 
 ### UMBC Liaisons
 
-**Faculty Advisor:** Dr. Charles Nicholas (nicholas @ umbc.edu)
-Professor, Department of Computer Science and Electrical Engineering
-Affiliate Professor, Department of Information Systems
+**Faculty Advisor:** Dr. Charles Nicholas (nicholas @ umbc.edu)<br>
+Professor, Department of Computer Science and Electrical Engineering<br>
+Affiliate Professor, Department of Information Systems<br>
 Director, Graduate Computer Science Programs
-**Faculty Advisor:** Dr. Richard Forno (rforno @ umbc.edu)
-Principal Lecturer, Department of Computer Science and Electrical Engineering
-Director, Graduate Cybersecurity Programs
+**Faculty Advisor:** Dr. Richard Forno (rforno @ umbc.edu)<br>
+Principal Lecturer, Department of Computer Science and Electrical Engineering<br>
+Director, Graduate Cybersecurity Programs<br>
 Assistant Director, UMBC Center for Cybersecurity
 **Corporate Relations:**  Caroline Baker (cbaker @ umbc.edu)
 
