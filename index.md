@@ -9,14 +9,14 @@ share a common interest in cybersecurity and good security practice in all aspec
 
 ## Next Event
 
-CyberPaws CTF opening & involvement Fest, September 6, 2023.
+CyberPaws CTF Opening & Involvement Fest on September 6, 2023.
 
 ## How To Get Involved 
 
 There are a few things you can do to get involved with the club.
 
 1. Join our [discord](https://discord.gg/SKwhhNyrdJ)!
-2. Check our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
+2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
     * Meeting location for the fall semester is PUB 105 with a hybrid/virtual option on [Webex](https://umbc.webex.com/umbc/j.php?MTID=m5bf61fcdac399940e710ea4f2d120b08)
     * Meeting time is Monday 7:10pm - 9:00pm
@@ -48,15 +48,15 @@ Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
 related competitions. Here's what we're doing:
 
-* We host a CTF (Capture the Flag) event at UMBC every year: DawgCTF
+* We host a CTF (Capture the Flag) event at UMBC every year called **DawgCTF**
     * Held during the Spring semester
     * Open to everyone of all skill levels
 
-* We host another CTF, called CyberPaws, that has weekly challenges meant more for beginner
+* We host another CTF, called **CyberPaws CTF**, that has weekly challenges during each semester for beginners
 
-* We are running our 6th Annual Cyber Defense Exercise (CDE) in Fall 2023. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in. Mark your calendars!! 
+* We are host a **Cyber Defense Exercise (CDE)** each Fall. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in.
 
-* Finally, we host an end-of-semester celebration for all to attend
+* Finally, we host an **End-of-Semester Celebration** for all to attend and take a break before exams. We provide pizza, drinks, and candy as well as music and games. 
 
 <div style="text-align: center;">
    <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe></a>
@@ -124,11 +124,11 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **Faculty Advisor:** Dr. Charles Nicholas (nicholas @ umbc.edu)<br>
 Professor, Department of Computer Science and Electrical Engineering<br>
 Affiliate Professor, Department of Information Systems<br>
-Director, Graduate Computer Science Programs
+Director, Graduate Computer Science Programs<br>
 **Faculty Advisor:** Dr. Richard Forno (rforno @ umbc.edu)<br>
 Principal Lecturer, Department of Computer Science and Electrical Engineering<br>
 Director, Graduate Cybersecurity Programs<br>
-Assistant Director, UMBC Center for Cybersecurity
+Assistant Director, UMBC Center for Cybersecurity<br>
 **Corporate Relations:**  Caroline Baker (cbaker @ umbc.edu)
 
 ## Club Sponsors
