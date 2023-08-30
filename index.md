@@ -18,15 +18,15 @@ There are a few things you can do to get involved with the club.
 1. Join our [discord](https://discord.gg/SKwhhNyrdJ)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the fall semester is PUB 105 with a hybrid/virtual option on [Webex](https://umbc.webex.com/umbc/j.php?MTID=m5bf61fcdac399940e710ea4f2d120b08)
+    * Meeting location for the fall semester is ENR 231 with a hybrid/virtual option on [Webex](https://google.com)
     * Meeting time is Monday 7:10pm - 9:00pm
 4. Checkout the [calendar](#calendar)
 
 ## <a name="meetings">Meetings
 
 We hold general club meetings every Monday from 7:10pm to 9pm in ENG 231.
-We encourage anyone who wants to learn more about cyber security and how to 
-start learning new skills in the field to come to our meetings. If you’re 
+We encourage anyone who wants to learn more about cyber security and how to develop 
+skills in the field to come to our meetings. If you’re 
 new to cyber or computing security, no worries, you can still come. 
 Security’s nowhere near as hard as people say, so don’t be scared away :)
 
@@ -48,15 +48,13 @@ Along with our normal club meetings, we also provide great opportunities for
 individuals who are interested in learning about and participating in cyber
 related competitions. Here's what we're doing:
 
-* We host a CTF (Capture the Flag) event at UMBC every year called **DawgCTF**
-    * Held during the Spring semester
-    * Open to everyone of all skill levels
+* We host two CTF (Capture the Flag) events at UMBC every year: 
+   * **DawgCTF** Open to all UMBC students of all skill levels. Held during the Spring semester.
+    * **CyberPaws CTF** Open to our club members; aimed at beginners. Held during Fall semester.
 
-* We host another CTF, called **CyberPaws CTF**, that has weekly challenges during each semester for beginners
+* We host a **Cyber Defense Exercise (CDE)** each Fall. CDE is a Red/Blue cyber defense exercise. It is open to all UMBC undergrads and is a great opportunity to learn more about cyber security and cyber competitions. We strongly recommend participating so you can get a taste of the competition environment, in case you'd like to try out for the team.
 
-* We are host a **Cyber Defense Exercise (CDE)** each Fall. CDE is a miniature version of our biggest competition for the year CCDC. It is open to all UMBC undergrads and is a great opportunity to learn more about network security and Cyber Security competitions. If you're interested in joining our CCDC team, we strongly recommend participating so you can get a taste of the competition and show us where you may fit in.
-
-* Finally, we host an **End-of-Semester Celebration** for all to attend and take a break before exams. We provide pizza, drinks, and candy as well as music and games. 
+* Finally, we host an **End-of-Semester Celebration**, each Spring and Fall, for all UMBC students to attend and take a break before exams. We provide pizza, drinks, and candy as well as music and games. We also announce winners of our CTFs and hand out prizes!
 
 <div style="text-align: center;">
    <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=umbc.edu_sua9otosc8mchuu17od417duh8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe></a>
@@ -67,12 +65,12 @@ related competitions. Here's what we're doing:
 Some of our club members try out for and compete together on a collegiate cyber security competition team. We compete under the same “CyberDawgs” name.
 
 ### Planned Competitions
-* [DoE Cyberforce](https://cyberforcecompetition.com/) (Fall)
-* CSAW 2022
-* UMD CSEC's CTF
-* MACCDC and hopefully NCCDC
-* Kaizen CTF
-* Probably some others
+* [DoE Cyberforce](https://cyberforcecompetition.com/)
+* [CSAW CTF](https://www.csaw.io/ctf)
+* [NICCDC](https://niccdc.niatec.iri.isu.edu/)
+* [CPTC](https://cp.tc/)
+* [MACCDC](https://maccdc.org/)
+
 
 ### Team Competition History
 **National CCDC 2021**: 7<sup>th</sup> place  
@@ -124,11 +122,13 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **Faculty Advisor:** Dr. Charles Nicholas (nicholas @ umbc.edu)<br>
 Professor, Department of Computer Science and Electrical Engineering<br>
 Affiliate Professor, Department of Information Systems<br>
-Director, Graduate Computer Science Programs<br>
+Director, Graduate Computer Science Programs<be>
+
 **Faculty Advisor:** Dr. Richard Forno (rforno @ umbc.edu)<br>
 Principal Lecturer, Department of Computer Science and Electrical Engineering<br>
 Director, Graduate Cybersecurity Programs<br>
-Assistant Director, UMBC Center for Cybersecurity<br>
+Assistant Director, UMBC Center for Cybersecurity<be>
+
 **Corporate Relations:**  Caroline Baker (cbaker @ umbc.edu)
 
 ## Club Sponsors
