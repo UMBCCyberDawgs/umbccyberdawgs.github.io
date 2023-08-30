@@ -5,11 +5,11 @@ layout: default
 ## Welcome
 
 Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who
-share a common interest in cybersecurity and good security practice in all aspects of computing.
+share a common interest in cybersecurity and good security practices in all aspects of computing.
 
 ## Next Event
 
-CyberPaws CTF Opening & Involvement Fest on September 6, 2023.
+CyberPaws CTF opening day & Involvement Fest on September 6, 2023.
 
 ## How To Get Involved 
 
@@ -18,9 +18,8 @@ There are a few things you can do to get involved with the club.
 1. Join our [discord](https://discord.gg/SKwhhNyrdJ)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the fall semester is ENR 231 with a hybrid/virtual option on [Webex](https://google.com)
+    * Meeting location for the Fall 2023 semester is ENG 231 with a hybrid/virtual option on Webex
     * Meeting time is Monday 7:10pm - 9:00pm
-4. Checkout the [calendar](#calendar)
 
 ## <a name="meetings">Meetings
 
