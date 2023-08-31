@@ -57,7 +57,7 @@ related competitions. Here's what we're doing:
 * Finally, we host an **End-of-Semester Celebration**, each Spring and Fall, for all UMBC students to attend and take a break before exams. We provide pizza, drinks, and candy as well as music and games. We also announce winners of our CTFs and hand out prizes!
 
 <div style="text-align: center;">
-   <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;src=c_a54ce45c4003ac0b00219ecdcbd0a25776b299d0be0f2e3c822439fda0104f5a%40group.calendar.google.com&ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="800" height="600" frameborder="0" scrolling="no"></iframe></a>
+   <a name="calendar"><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;src=c_a54ce45c4003ac0b00219ecdcbd0a25776b299d0be0f2e3c822439fda0104f5a%40group.calendar.google.com&ctz=America%2FNew_York" style="margin: 10px; padding: 5px; border: 3px solid black; border-radius: 15px;" width="700" height="300" frameborder="0" scrolling="no"></iframe></a>
 </div>
 
 ## <a name="finishes">Cyber Competition Team</a>
