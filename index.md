@@ -9,7 +9,7 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-CyberPaws CTF opening day & Involvement Fest on September 6, 2023.
+Involvement Fest on Wednesday, September 6, 2023.
 
 ## How To Get Involved 
 
