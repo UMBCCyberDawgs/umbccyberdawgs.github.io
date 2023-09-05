@@ -1,9 +1,9 @@
 ---
 layout: default
+theme: dark
 ---
 
 ## Welcome
-
 Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who
 share a common interest in cybersecurity and good security practices in all aspects of computing.
 
