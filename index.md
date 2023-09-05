@@ -1,6 +1,5 @@
 ---
 layout: default
-bgcolor: dark
 ---
 
 ## Welcome
