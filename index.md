@@ -8,7 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-Involvement Fest on Wednesday, September 6, 2023.
+First Club Meeting (Monday, September 11, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))
+Topic: Club Welcome and Introductions, VM and CTF Walkthrough
 
 ## How To Get Involved 
 
