@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-First Club Meeting (Monday, September 11, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
-Topic: Club Welcome and Introductions, VM and CTF Walkthrough
+Club Meeting: Week 2 (Monday, September 18, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+Topic: Bug Bounties
 
 ## How To Get Involved 
 
