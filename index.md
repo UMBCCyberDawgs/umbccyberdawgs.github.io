@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-Club Meeting: Week 3 (Monday, September 25, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
-Topic: Intro to Vulnerability Research as a Career
+Club Meeting: Week 5 (Monday, October 9, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+Topic: Power Hour (Multiple Speakers/Topics: ATT&CK Framework, Binary Exploitation, Reverse Engineering, Phone Shenanigans)
 
 ## How To Get Involved 
 
