@@ -9,7 +9,7 @@ share a common interest in cybersecurity and good security practices in all aspe
 ## Next Event
 
 Club Meeting: Week 6 (Monday, October 16, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
-Topic: Cybersecurity Criminal Prosecution (Colonel Rusty McGuire - XO 91st Cyber Brigade)
+Topic: Cybersecurity Criminal Prosecution
 
 ## How To Get Involved 
 
