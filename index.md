@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-Club Meeting: Week 6 (Monday, October 16, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
-Topic: Cybersecurity Criminal Prosecution
+Club Meeting: Week 7 (Monday, October 23, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+Topic: Cyber-Physical & Social Engineering
 
 ## How To Get Involved 
 
