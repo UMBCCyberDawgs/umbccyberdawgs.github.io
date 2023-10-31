@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-Club Meeting: Week 8 (Monday, October 30, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
-Topic: Cyber Watch Along! Movie: Hackers
+Club Meeting: Week 9 (Monday, November 6th, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+Topic: Cyber Agency Academic Outreach
 
 ## How To Get Involved 
 
