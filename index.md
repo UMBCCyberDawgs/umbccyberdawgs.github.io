@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
-Club Meeting: Week 12 (Monday, November 27th, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
-Topic: Basic PowerShell for Cybersecurity
+Club Meeting: Week 13 (Monday, December 4th, 7:10 PM-9:00 PM in ENG 231 or [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+Topic: Elections!!
 
 ## How To Get Involved 
 
