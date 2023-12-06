@@ -108,8 +108,8 @@ Some of our club members try out for and compete together on a collegiate cyber 
 ### Board
 
 **President:** William Brooks (wbrooks1 @ umbc.edu)  
-**Vice President:** Kei-Won-Tia von Wrex (keiwontia @ umbc.edu)     
-**Treasurer:** Zachary Amoss (zamoss1 @ umbc.edu)  
+**Vice President:** Isaiah Roland-Reid (i27 @ umbc.edu)     
+**Treasurer:** Ryan Castro (ryancas1 @ umbc.edu)  
 **Secretary:** Jeremy Romanik Romano (jeremyr2 @ umbc.edu)
 
 ### Honorary Board
