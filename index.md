@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
--Club Meeting: Week 7 (Monday, April 1st, 7:10 PM-9:00 PM in **COMMONS 331** (No webex) <!--[Webex](https://umbc.webex.com/meet/CyberDawgs))--><br>
--Topic: Movie Night: WarGames
+-Club Meeting: Week 8 (Monday, April 8th, 7:10 PM-9:00 PM in ITE 231 (No webex) <!--[Webex](https://umbc.webex.com/meet/CyberDawgs))--><br>
+-Topic: Game Hacking
 
 ## How To Get Involved 
 
