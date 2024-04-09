@@ -18,13 +18,13 @@ There are a few things you can do to get involved with the club.
 1. Join our [discord](https://discord.gg/SKwhhNyrdJ)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the Fall 2023 semester is ENG 231 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
+    * Meeting location for the Spring 2023 semester is ITE 231 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
     * Meeting time is Monday 7:10pm - 9:00pm
 4. Checkout the [calendar](#calendar)
 
 ## <a name="meetings">Meetings
 
-We hold general club meetings every Monday from 7:10pm to 9pm in ENG 231.
+We hold general club meetings every Monday from 7:10pm to 9pm in ITE 231.
 We encourage anyone who wants to learn more about cyber security and how to develop 
 skills in the field to come to our meetings. If you’re 
 new to cyber or computing security, no worries, you can still come. 
