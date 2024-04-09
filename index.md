@@ -8,7 +8,7 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
--Club Meeting: Week 9 (Monday, April 15th, 7:10 PM-9:00 PM) in ITE 231 <!--[Webex](https://umbc.webex.com/meet/CyberDawgs)--><br>
+-Club Meeting: Week 9 (Monday, April 15th, 7:10 PM-9:00 PM) in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs)<br>
 -Topic: Linux Security Hardening
 
 ## How To Get Involved 
