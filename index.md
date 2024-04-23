@@ -8,10 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
--DawgCTF Saturday April 20th (Join the [Discord](https://discord.gg/qT4hQ5pXEw) for more info)<br>
-
--Club Meeting: Week 10 (Monday, April 22nd, 7:10 PM-9:00 PM in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
--Topic: Competition Team / Tryout Informational Meeting
+-Club Meeting: Week 11 (Monday, April 29nd, 7:10 PM-9:00 PM in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+-Topic: Club Elections!
 
 ## How To Get Involved 
 
