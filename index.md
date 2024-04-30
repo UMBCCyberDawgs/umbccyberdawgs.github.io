@@ -8,8 +8,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 ## Next Event
 
--Club Meeting: Week 11 (Monday, April 29nd, 7:10 PM-9:00 PM in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
--Topic: Club Elections!
+-Club Meeting: Week 12 (Monday, May 6th, 7:10 PM-9:00 PM in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
+-Topic: Power Hour!
 
 ## How To Get Involved 
 
