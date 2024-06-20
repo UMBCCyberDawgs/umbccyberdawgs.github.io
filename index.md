@@ -113,13 +113,13 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 **President:** William Brooks (wbrooks1 @ umbc.edu)  
 **Vice President:** Isaiah Roland-Reid (i27 @ umbc.edu)     
-**Treasurer:** Ryan Castro (ryancas1 @ umbc.edu)  
-**Secretary:** Jeremy Romanik Romano (jeremyr2 @ umbc.edu)
+**Treasurer:** Michael Mayhugh (mmayhug1 @ umbc.edu)  
+**Secretary:** Jonathan West (jwest5 @ umbc.edu)
 
 ### Honorary Board
 
 **Chief Historical Officer:** Sophia Hamer (chamer1 @ umbc.edu)  
-**Senior Infrastructure Engineer:** Kevin Chen (kevin.chen @ umbc.edu)
+**Principal Infrastructure Engineer:** Kevin Chen (kevin.chen @ umbc.edu)
 
 ### UMBC Liaisons
 
