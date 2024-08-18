@@ -10,12 +10,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 Have a good Summer! Returning Fall 2024.
 
-<!-- PawsCTF(test) -->
-
-<!--
--Club Meeting: Week 13 (Monday, May 13th, 7:10 PM-9:00 PM in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
--Topic: End-of-Semester Celebration!
--->
+<!-- Congratulations! You found a PawsCTF flag! This is just static content, which means it's always present on the page, but other more advanced web challenges involve the Network tab in Inspect Element on Browsers like Firefox or Chrome. Checking the source code on any website is still a good first step to find all sorts of information about the website you wouyldn't normally be able to see! -->
+<!-- PawsCTF(1nsp3ct_3L3M3nt) -->
 
 ## How To Get Involved 
 
@@ -139,7 +135,6 @@ Assistant Director, UMBC Center for Cybersecurity<be>
 
 ## Club Sponsors
 
-<!-- ## <img src="/images/percival.png" height="50%" width="40%"> -->
 ## <img src="/images/northropgrumman.jpg" height="50%" width="40%"> 
 
 <footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://constitutioncenter.org/the-constitution/full-text">Constitution</a>|Don't Do Crime!</center></footer>
