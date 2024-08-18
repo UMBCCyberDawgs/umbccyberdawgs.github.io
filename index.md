@@ -10,6 +10,8 @@ share a common interest in cybersecurity and good security practices in all aspe
 
 Have a good Summer! Returning Fall 2024.
 
+<!-- PawsCTF(test) -->
+
 <!--
 -Club Meeting: Week 13 (Monday, May 13th, 7:10 PM-9:00 PM in ITE 231 [Webex](https://umbc.webex.com/meet/CyberDawgs))<br>
 -Topic: End-of-Semester Celebration!
@@ -19,7 +21,7 @@ Have a good Summer! Returning Fall 2024.
 
 There are a few things you can do to get involved with the club.
 
-1. Join our [discord](https://discord.gg/SKwhhNyrdJ)!
+1. Join our [Discord](https://discord.gg/SKwhhNyrdJ)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
     * Meeting location for the Spring 2023 semester is ITE 231 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
@@ -137,7 +139,7 @@ Assistant Director, UMBC Center for Cybersecurity<be>
 
 ## Club Sponsors
 
-## <img src="/images/percival.png" height="50%" width="40%"> 
+<!-- ## <img src="/images/percival.png" height="50%" width="40%"> -->
 ## <img src="/images/northropgrumman.jpg" height="50%" width="40%"> 
 
 <footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://constitutioncenter.org/the-constitution/full-text">Constitution</a>|Don't Do Crime!</center></footer>
