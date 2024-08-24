@@ -87,17 +87,17 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **CSAW Quals**: Upcoming
 
 **_2023_** \
-**ISTS**: TBA<sup>th</sup> Place \
-**DoE Cyberforce**: TBA<sup>st</sup> Place
+**ISTS:** Particapted
+**DoE Cyberforce**: 11<sup>th</sup> Place
 
 **_2022_** \
 **Mid Atlantic CCDC**: 5<sup>th</sup> Place \
-**ISTS**: TBA<sup>st</sup> Place \
-**DoE Cyberforce**: TBA<sup>st</sup> Place
+**ISTS**: TBA<sup>th</sup> Place \
+**DoE Cyberforce**: 18<sup>th</sup> Place
 
 **_2021_** \
-**National CCDC**: 7<sup>th</sup> Place \
 **Mid Atlantic CCDC**: 1st Place, *advanced to national CCDC* \
+**National CCDC**: 7<sup>th</sup> Place \
 **ISTS**: 4<sup>th</sup> Place
 
 **_2020_** \
