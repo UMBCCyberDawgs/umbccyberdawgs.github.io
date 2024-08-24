@@ -74,42 +74,63 @@ Some of our club members try out for and compete together on a collegiate cyber 
 * [MACCDC](https://maccdc.org/)
 * [ISTS](https://ists.io/)
 * [NCL](https://nationalcyberleague.org/competition)
+* [MDC3](https://www.fbcconferences.com/e/cybermdconference/challenge.aspx)
 * Miscellaneous CTFs
 
-### Team Competition History
-**Mid Atlantic CCDC 2024**: 5<sup>th</sup> Place \
-**2024 Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> Place \
-**2024 AFCEA TechNet CTF**: 6<sup>th</sup> Place
+### Team Competition History and Highlights
+**_2024_** \
+**Mid Atlantic CCDC**: 5<sup>th</sup> Place \
+**ISTS**: 8<sup>th</sup> Place \
+**Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> Place \
+**AFCEA TechNet CTF**: 6<sup>th</sup> Place \
+**DoE Cyberforce**: Upcoming \
+**CSAW Quals**: Upcoming
 
-**National CCDC 2021**: 7<sup>th</sup> Place \
-**Mid Atlantic CCDC 2021**: 1st Place, *advanced to national CCDC* \
-**ISTS 2021**: 4<sup>th</sup> Place
+**_2023_** \
+**ISTS**: TBA<sup>th</sup> Place \
+**DoE Cyberforce**: TBA<sup>st</sup> Place
 
-**National CCDC 2020**: 5<sup>th</sup> place \
-**Mid Atlantic CCDC 2020**: 1<sup>st</sup> Place, *advanced to national CCDC* \
-**SANS NetWars Tournament of Champions 2020**: First Timers 1<sup>st</sup> Place
+**_2022_** \
+**Mid Atlantic CCDC**: 5<sup>th</sup> Place \
+**ISTS**: TBA<sup>st</sup> Place \
+**DoE Cyberforce**: TBA<sup>st</sup> Place
 
-**DoE Cyberforce 2019**: National 1<sup>st</sup> Place \
-**Boston Marathon**: Qualifier and Finisher \
-**Mid Atlantic CCDC 2019**: 5<sup>th</sup> Place \
-**ISTS 17 (2019)**: 1<sup>st</sup> Place
-   
-**DoE Cyberforce 2018**: Brookhaven 1<sup>st</sup> Place, 12<sup>th</sup> overall \
-**CSAW Finals 2018**: 10<sup>th</sup> Place in US-Canada, 27<sup>th</sup> overall \
-**CSAW Quals 2018**: 10<sup>th</sup> Place (undergrad, North America), 37<sup>th</sup> overall, *qualified for North American finals* \
-**MACCDC 2018**: 2nd Place
+**_2021_** \
+**National CCDC**: 7<sup>th</sup> Place \
+**Mid Atlantic CCDC**: 1st Place, *advanced to national CCDC* \
+**ISTS**: 4<sup>th</sup> Place
 
-**CSAW Finals 2017**: 7<sup>th</sup> Place in North America, 11<sup>th</sup> overall \
-**CSAW Quals 2017**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals* \
-**National CCDC 2017**: 1<sup>st</sup> Place \
-**Mid Atlantic CCDC 2017**: 1<sup>st</sup> Place, *advanced to national CCDC*
- 
-**CSAW 2016**: 16<sup>th</sup> (undergrad, North America) \
-**Mid Atlantic CCDC 2016**: 4<sup>th</sup> Place
- 
-**MDC3 2015**: 1<sup>st</sup> Place \
-**National CCDC 2015**: 4<sup>th</sup> Place \
-**Mid Atlantic CCDC 2015**: 1<sup>st</sup> Place, *advanced to national CCDC*  
+**_2020_** \
+**Mid Atlantic CCDC**: 1<sup>st</sup> Place, *advanced to national CCDC* \
+**National CCDC**: 5<sup>th</sup> place \
+**SANS NetWars Tournament of Champions**: First Timers 1<sup>st</sup> Place
+
+**_2019_** \
+**Mid Atlantic CCDC**: 5<sup>th</sup> Place \
+**ISTS**: 1<sup>st</sup> Place \
+**DoE Cyberforce**: National 1<sup>st</sup> Place \
+**Boston Marathon**: Qualifier and Finisher
+
+**_2018_** \
+**Mid Atlantic CCDC**: 2nd Place \
+**CSAW Quals**: 10<sup>th</sup> Place (undergrad, North America), 37<sup>th</sup> overall, *qualified for North American finals* \
+**CSAW Finals**: 10<sup>th</sup> Place in US-Canada, 27<sup>th</sup> overall \
+**DoE Cyberforce**: Brookhaven 1<sup>st</sup> Place, 12<sup>th</sup> overall
+
+**_2017_** \
+**Mid Atlantic CCDC**: 1<sup>st</sup> Place, *advanced to national CCDC* \
+**National CCDC**: 1<sup>st</sup> Place \
+**CSAW Finals**: 7<sup>th</sup> Place in North America, 11<sup>th</sup> overall \
+**CSAW Quals**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals*
+
+**_2016_** \
+**Mid Atlantic CCDC**: 4<sup>th</sup> Place \
+**CSAW Quals**: 16<sup>th</sup> (undergrad, North America)
+
+**_2015_** \
+**Mid Atlantic CCDC**: 1<sup>st</sup> Place, *advanced to national CCDC* \
+**National CCDC**: 4<sup>th</sup> Place \
+**Maryland Cyber Challenge & Competition (MDC3)**: 1<sup>st</sup> Place
 
 ## Contact Information
 
