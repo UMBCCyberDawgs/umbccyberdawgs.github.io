@@ -91,7 +91,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 **DoE Cyberforce 2019**: National 1<sup>st</sup> Place \
 **Boston Marathon**: Qualifier and Finisher \
-**Mid Atlantic CCDC 2019**: 5<sup>th</sup> Place \  
+**Mid Atlantic CCDC 2019**: 5<sup>th</sup> Place \
 **ISTS 17 (2019)**: 1<sup>st</sup> Place
    
 **DoE Cyberforce 2018**: Brookhaven 1<sup>st</sup> Place, 12<sup>th</sup> overall \
@@ -100,11 +100,11 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **MACCDC 2018**: 2nd Place
 
 **CSAW Finals 2017**: 7<sup>th</sup> Place in North America, 11<sup>th</sup> overall \
-**CSAW Quals 2017**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals* \  
+**CSAW Quals 2017**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals* \
 **National CCDC 2017**: 1<sup>st</sup> Place \
 **Mid Atlantic CCDC 2017**: 1<sup>st</sup> Place, *advanced to national CCDC*
  
-**CSAW 2016**: 16<sup>th</sup> (undergrad, North America) \ 
+**CSAW 2016**: 16<sup>th</sup> (undergrad, North America) \
 **Mid Atlantic CCDC 2016**: 4<sup>th</sup> Place
  
 **MDC3 2015**: 1<sup>st</sup> Place \
