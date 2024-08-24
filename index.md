@@ -87,7 +87,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **CSAW Quals**: Upcoming
 
 **_2023_** \
-**ISTS:** Particapted
+**ISTS:** Particapted \
 **DoE Cyberforce**: 11<sup>th</sup> Place
 
 **_2022_** \
