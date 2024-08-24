@@ -77,39 +77,39 @@ Some of our club members try out for and compete together on a collegiate cyber 
 * Miscellaneous CTFs
 
 ### Team Competition History
-**MACCDC 2024**: 5<sup>th</sup> place 
-**2024 Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> place
-**2024 AFCEA TechNet CTF**: 6<sup>th</sup> place
+**Mid Atlantic CCDC 2024**: 5<sup>th</sup> Place \
+**2024 Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> Place \
+**2024 AFCEA TechNet CTF**: 6<sup>th</sup> Place
 
-**National CCDC 2021**: 7<sup>th</sup> place  
-**Mid Atlantic CCDC 2021**: 1st place, *advanced to national CCDC*  
-**ISTS 2021**: 4<sup>th</sup> place
+**National CCDC 2021**: 7<sup>th</sup> Place \
+**Mid Atlantic CCDC 2021**: 1st Place, *advanced to national CCDC* \
+**ISTS 2021**: 4<sup>th</sup> Place
 
-**National CCDC 2020**: 5<sup>th</sup> place  
-**Mid Atlantic CCDC 2020**: 1<sup>st</sup> place, *advanced to national CCDC*  
+**National CCDC 2020**: 5<sup>th</sup> place \
+**Mid Atlantic CCDC 2020**: 1<sup>st</sup> Place, *advanced to national CCDC* \
 **SANS NetWars Tournament of Champions 2020**: First Timers 1<sup>st</sup> Place
 
-**DoE Cyberforce 2019**: National 1<sup>st</sup> Place  
-**Boston Marathon**: Qualifier and Finisher  
-**Mid Atlantic CCDC 2019**: 5<sup>th</sup> Place  
+**DoE Cyberforce 2019**: National 1<sup>st</sup> Place \
+**Boston Marathon**: Qualifier and Finisher \
+**Mid Atlantic CCDC 2019**: 5<sup>th</sup> Place \  
 **ISTS 17 (2019)**: 1<sup>st</sup> Place
    
-**DoE Cyberforce 2018**: Brookhaven 1<sup>st</sup> place, 12<sup>th</sup> overall  
-**CSAW Finals 2018**: 10<sup>th</sup> place in US-Canada, 27<sup>th</sup> overall  
-**CSAW Quals 2018**: 10<sup>th</sup> place (undergrad, North America), 37<sup>th</sup> overall, *qualified for North American finals*  
+**DoE Cyberforce 2018**: Brookhaven 1<sup>st</sup> Place, 12<sup>th</sup> overall \
+**CSAW Finals 2018**: 10<sup>th</sup> Place in US-Canada, 27<sup>th</sup> overall \
+**CSAW Quals 2018**: 10<sup>th</sup> Place (undergrad, North America), 37<sup>th</sup> overall, *qualified for North American finals* \
 **MACCDC 2018**: 2nd Place
 
-**CSAW Finals 2017**: 7<sup>th</sup> place in North America, 11<sup>th</sup> overall  
-**CSAW Quals 2017**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals*  
-**National CCDC 2017**: 1<sup>st</sup> place  
-**Mid Atlantic CCDC 2017**: 1<sup>st</sup> place, *advanced to national CCDC*
+**CSAW Finals 2017**: 7<sup>th</sup> Place in North America, 11<sup>th</sup> overall \
+**CSAW Quals 2017**: 9<sup>th</sup> place (undergrad, North America), 46<sup>th</sup> overall, *qualified for North American finals* \  
+**National CCDC 2017**: 1<sup>st</sup> Place \
+**Mid Atlantic CCDC 2017**: 1<sup>st</sup> Place, *advanced to national CCDC*
  
-**CSAW 2016**: 16<sup>th</sup> (undergrad, North America)  
-**Mid Atlantic CCDC 2016**: 4<sup>th</sup> place
+**CSAW 2016**: 16<sup>th</sup> (undergrad, North America) \ 
+**Mid Atlantic CCDC 2016**: 4<sup>th</sup> Place
  
-**MDC3 2015**: 1<sup>st</sup> place  
-**National CCDC 2015**: 4<sup>th</sup> place  
-**Mid Atlantic CCDC 2015**: 1<sup>st</sup> place, *advanced to national CCDC*  
+**MDC3 2015**: 1<sup>st</sup> Place \
+**National CCDC 2015**: 4<sup>th</sup> Place \
+**Mid Atlantic CCDC 2015**: 1<sup>st</sup> Place, *advanced to national CCDC*  
 
 ## Contact Information
 
