@@ -87,12 +87,13 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **CSAW Quals**: Upcoming
 
 **_2023_** \
-**ISTS:** Particapted \
+**CSAW Quals**: 37<sup>th</sup> Place (US-Canada), 120<sup>th</sup> overall \
+**ICL Collegiate Cup Finals**: 17<sup>th</sup> \
 **DoE Cyberforce**: 11<sup>th</sup> Place
 
 **_2022_** \
-**Mid Atlantic CCDC**: 5<sup>th</sup> Place \
-**ISTS**: TBA<sup>th</sup> Place \
+**Mid Atlantic CCDC**: 7<sup>th</sup> Place \
+**ISTS**: 8<sup>th</sup> Place \
 **DoE Cyberforce**: 18<sup>th</sup> Place
 
 **_2021_** \
