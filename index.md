@@ -17,7 +17,7 @@ Have a good Summer! Returning Fall 2024.
 
 There are a few things you can do to get involved with the club.
 
-1. Join our [Discord](https://discord.gg/SKwhhNyrdJ)!
+1. Join our [Discord](https://discord.gg/hUVkGvvY2y)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
     * Meeting location for the Fall 2024 semester is likely ENG 231 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
