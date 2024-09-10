@@ -3,34 +3,31 @@ layout: default
 ---
 
 ## Welcome
-Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who
-share a common interest in cybersecurity and good security practices in all aspects of computing.
+Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who share a common interest in cybersecurity and good security practices in all aspects of computing.
 
 ## Next Event
-
-Have a good Summer! Returning Fall 2024.
+September 16th | Club Meeting | 7:15-8:15pm | ILSB 118 \
+**Topic:** Intro to VMs, Linux, CTFs, and Trainings
 
 <!-- Congratulations! You found a PawsCTF flag! This is just static content, which means it's always present on the page, but other more advanced web challenges involve the Network tab in Inspect Element on Browsers like Firefox or Chrome. Checking the source code on any website is still a good first step to finding all sorts of information about the website you wouldn't normally be able to see! -->
 <!-- PawsCTF(1nsp3ct_3L3M3nt) -->
 
 ## How To Get Involved 
 
-There are a few things you can do to get involved with the club.
+You can do a few things to get involved with the club.
 
 1. Join our [Discord](https://discord.gg/hUVkGvvY2y)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the Fall 2024 semester is likely ENG 231 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
-    * Meeting time is Monday 7:00pm - 8:00pm
+    * Meeting location for the Fall 2024 semester is ILSB 118 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
+    * Meeting time is every Monday 7:15pm - 8:15pm
+    * Meeting Slides and Recordings will be shared (when possible)
 4. Checkout the [calendar](#calendar)
 
 ## <a name="meetings">Meetings
 
-We hold general club meetings every Monday from 7pm to 8pm likely in ENG 231.
-We encourage anyone who wants to learn more about cyber security and how to develop 
-skills in the field to come to our meetings. If you’re 
-new to cyber or computing security, no worries, you can still come. 
-Security’s nowhere near as hard as people say, so don’t be scared away :)
+We hold general club meetings every Monday from 7:15 to 8:15 PM in ILSB 118.
+We encourage anyone who wants to learn more about cyber security and develop skills in the field to attend our meetings. If you’re new to cyber or computing security, no worries, you can still come. Although cybersecurity can be difficult at times, it's nowhere near as hard as some people say, so don’t be scared away or discouraged.
 
 No prior experience is required to attend or participate in our meetings. 
 
@@ -39,16 +36,12 @@ No prior experience is required to attend or participate in our meetings.
 * An environment conducive to learning relevant tools and techniques
 * A place to meet like-minded students and discuss all things cyber and computing security
 
-Our meetings vary in subject material from week to week. If you have specific topics
-you would like to learn more about, please email our club secretary. If you
-would like to present a talk or teach a new skill, please email our club
-president.
+Our meetings vary in subject material from week to week. If you want to learn more about specific topics, please email our club secretary. If you would like to present a talk or teach a new skill, please email our club president.
 
 ## Club Events
 
 Along with our normal club meetings, we also provide great opportunities for
-individuals who are interested in learning about and participating in cyber
-related competitions. Here's what we're doing:
+individuals interested in learning about and participating in cyber-related competitions. Here's what we're doing:
 
 * We host two CTF (Capture the Flag) events at UMBC every year: 
    * **DawgCTF** Open to all UMBC students of all skill levels. Held during the Spring semester.
@@ -83,8 +76,8 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **ISTS**: 8<sup>th</sup> Place \
 **Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> Place \
 **AFCEA TechNet CTF**: 6<sup>th</sup> Place \
-**DoE Cyberforce**: Upcoming \
-**CSAW Quals**: Upcoming
+**CSAW Quals**: 35<sup>th</sup> Place (US-Canada), 116<sup>th</sup> overall \
+**DoE Cyberforce**: Upcoming
 
 **_2023_** \
 **CSAW Quals**: 37<sup>th</sup> Place (US-Canada), 120<sup>th</sup> overall \
