@@ -47,7 +47,7 @@ individuals interested in learning about and participating in cyber-related comp
    * **DawgCTF** Open to all UMBC students of all skill levels. Held during the Spring semester.
     * **CyberPaws CTF** Open to our club members; aimed at beginners. Challenges are released weekly during the Fall/Spring semester.
 
-* We host a **Cyber Defense Exercise (CDE)** each Fall. CDE is a Red/Blue cyber defense exercise. It is open to all UMBC undergrads and is a great opportunity to learn more about cyber security and cyber competitions. We strongly recommend participating so you can get a taste of the competition environment, in case you'd like to try out for the team.
+* We host a **Cyber Defense Exercise (CDE)** each Fall. CDE is a Red/Blue cyber defense exercise. It is open to all UMBC students and is a great opportunity to learn more about cyber security and cyber competitions. We strongly recommend participating so you can get a taste of the competition environment, in case you'd like to try out for the team.
 
 * To break from the technical jargon, we hold a **Cyber Movie Night** once each semester during a club meeting. We offer free pizza, popcorn, and drinks. These nights are great for hanging out with fellow club members and relaxing from the stress of school.
 
