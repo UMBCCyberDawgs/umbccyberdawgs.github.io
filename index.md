@@ -9,8 +9,8 @@ Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who sha
 [2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2024-2025_Sponsorship_Packet.pdf)
 
 ## Next Event
-October 7th | Club Meeting | 7:15-8:15pm | ILSB 118 \
-**Topic:** Resume Building Night
+October 14th | Club Meeting | 7:15-8:15pm | ILSB 118 \
+**Topic:** How to Win CDE!
 
 <!-- Congratulations! You found the CyberPaws CTF Fall 2024 Week 2 flag! This is just static content, which means it's always present on the page, but other more advanced web challenges involve the Network tab in Inspect Element on Browsers like Firefox or Chrome. Checking the source code on any website is still a good first step to finding all sorts of information about the website you wouldn't normally be able to see! -->
 <!-- Paws{1nsp3ct_3L3M3nt} -->
