@@ -9,8 +9,8 @@ Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who sha
 [2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2024-2025_Sponsorship_Packet.pdf)
 
 ## Next Event
-October 14th | Club Meeting | 7:15-8:15pm | ILSB 118 \
-**Topic:** How to Win CDE!
+November 4th | Club Meeting | 7:15-8:15pm | ILSB 118 \
+**Topic:** Protocol Analysis
 
 <!-- Congratulations! You found the CyberPaws CTF Fall 2024 Week 2 flag! This is just static content, which means it's always present on the page, but other more advanced web challenges involve the Network tab in Inspect Element on Browsers like Firefox or Chrome. Checking the source code on any website is still a good first step to finding all sorts of information about the website you wouldn't normally be able to see! -->
 <!-- Paws{1nsp3ct_3L3M3nt} -->
@@ -155,10 +155,14 @@ Principal Lecturer, Department of Computer Science and Electrical Engineering<br
 Director, Graduate Cybersecurity Programs<br>
 Assistant Director, UMBC Center for Cybersecurity<be>
 
-**Corporate Relations:** Caroline Baker (cbaker @ umbc.edu)
+**Office of Institutional Advancement (Corporate Partnerships):** Caroline Baker (cbaker @ umbc.edu)
+
+## Thank you to our Sponsors!
+### Silver Tier
+## <img src="/images/EITLogo.png" height="50%" width="40%"> 
+## <img src="/images/LMLogo.png" height="50%" width="40%"> 
 
 ## Thank you to our Supporters!
-
 ## <img src="/images/northropgrumman.jpg" height="50%" width="40%"> 
 
 <footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://drive.google.com/file/d/1rNb2SUcJJwM4jTJs1aLHFC9Npf4WuCM7/view?usp=sharing">CyberDawgs Student Org Constitution</a>|Don't Do Crime!</center></footer>
