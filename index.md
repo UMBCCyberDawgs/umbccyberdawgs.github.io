@@ -169,8 +169,7 @@ Assistant Director, UMBC Center for Cybersecurity<be>
 (Contact Club Board if Interested!)
 
 ## Supporters
-## <img src="/images/northropgrumman.jpg" height="30%" width="30%"> 
-(Contact Club Board if Interested!)
+## <img src="/images/NGLogo.png" height="30%" width="30%"> 
 
 <footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://drive.google.com/file/d/1rNb2SUcJJwM4jTJs1aLHFC9Npf4WuCM7/view?usp=sharing">CyberDawgs Student Org Constitution</a>|Don't Do Crime!</center></footer>
 
