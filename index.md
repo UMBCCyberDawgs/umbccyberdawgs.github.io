@@ -157,13 +157,13 @@ Assistant Director, UMBC Center for Cybersecurity<be>
 
 **Office of Institutional Advancement (Corporate Partnerships):** Caroline Baker (cbaker @ umbc.edu)
 
-## Thank you to our Sponsors!
-### Silver Tier
-## <img src="/images/EITLogo.png" height="50%" width="40%"> 
-## <img src="/images/LMLogo.png" height="50%" width="40%"> 
+# Thank you to our Sponsors!
+## Silver Tier
+## <img src="/images/EITLogo.png" height="60%" width="60%"> 
+## <img src="/images/LMLogo.png" height="60%" width="60%"> 
 
 ## Thank you to our Supporters!
-## <img src="/images/northropgrumman.jpg" height="50%" width="40%"> 
+## <img src="/images/northropgrumman.jpg" height="30%" width="30%"> 
 
 <footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://drive.google.com/file/d/1rNb2SUcJJwM4jTJs1aLHFC9Npf4WuCM7/view?usp=sharing">CyberDawgs Student Org Constitution</a>|Don't Do Crime!</center></footer>
 
