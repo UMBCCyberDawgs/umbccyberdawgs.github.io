@@ -80,7 +80,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> Place \
 **AFCEA TechNet CTF**: 6<sup>th</sup> Place \
 **CSAW Quals**: 35<sup>th</sup> Place (US-Canada), 116<sup>th</sup> overall \
-**DoE Cyberforce**: Upcoming
+**DoE Cyberforce**: 12<sup>th</sup> Place
 
 **_2023_** \
 **CSAW Quals**: 37<sup>th</sup> Place (US-Canada), 120<sup>th</sup> overall \
