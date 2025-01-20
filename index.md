@@ -9,7 +9,7 @@ Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who sha
 [2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2024-2025_Sponsorship_Packet.pdf)
 
 ## Next Event
-November 25th | Club Meeting | 7:15-8:15pm | ILSB 118 \
+See you in the Spring! | Club Meeting | 7:15-8:15pm | ILSB 118 \
 **Topic:** FireTalks
 
 <!-- Congratulations! You found the CyberPaws CTF Fall 2024 Week 2 flag! This is just static content, which means it's always present on the page, but other more advanced web challenges involve the Network tab in Inspect Element on Browsers like Firefox or Chrome. Checking the source code on any website is still a good first step to finding all sorts of information about the website you wouldn't normally be able to see! -->
@@ -75,11 +75,17 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 ### Team Competition History and Highlights
 **_2024_** \
+**Mid Atlantic CCDC**: TBA Place \
+**ISTS**: TBA Place
+
+**_2024_** \
 **Mid Atlantic CCDC**: 5<sup>th</sup> Place \
 **ISTS**: 8<sup>th</sup> Place \
+**NCL Spring 2024 Team Game**: 42<sup>nd</sup> Place \
 **Association of Old Crows's CEMA CTF**: 1<sup>st</sup> and 2<sup>nd</sup> Place \
 **AFCEA TechNet CTF**: 6<sup>th</sup> Place \
 **CSAW Quals**: 35<sup>th</sup> Place (US-Canada), 116<sup>th</sup> overall \
+**NCL Fall 2024 Team Game**: 33<sup>rd</sup> Place \
 **DoE Cyberforce**: 12<sup>th</sup> Place
 
 **_2023_** \
