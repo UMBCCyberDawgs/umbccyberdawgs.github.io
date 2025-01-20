@@ -74,7 +74,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 * Miscellaneous CTFs
 
 ### Team Competition History and Highlights
-**_2024_** \
+**_2025_** \
 **Mid Atlantic CCDC**: TBA Place \
 **ISTS**: TBA Place
 
