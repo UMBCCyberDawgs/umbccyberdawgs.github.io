@@ -9,11 +9,8 @@ Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who sha
 [2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2024-2025_Sponsorship_Packet.pdf)
 
 ## Next Event
-See you in the Spring! | Club Meeting | 7:15-8:15pm | ILSB 118 \
-**Topic:** FireTalks
-
-<!-- Congratulations! You found the CyberPaws CTF Fall 2024 Week 2 flag! This is just static content, which means it's always present on the page, but other more advanced web challenges involve the Network tab in Inspect Element on Browsers like Firefox or Chrome. Checking the source code on any website is still a good first step to finding all sorts of information about the website you wouldn't normally be able to see! -->
-<!-- Paws{1nsp3ct_3L3M3nt} -->
+Monday, February 12 | Club Meeting | 7:15-8:15pm | ILSB 116B \
+**Topic:** Intro to the Cyber Team and Competitions\CTFs
 
 ## How To Get Involved 
 
@@ -22,15 +19,15 @@ You can do a few things to get involved with the club.
 1. Join our [Discord](https://discord.gg/hUVkGvvY2y)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the Fall 2024 semester is ILSB 118 with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
+    * Meeting location for the Spring 2025 semester is ILSB 116B with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
     * Meeting time is every Monday 7:15pm - 8:15pm
     * Meeting Slides and Recordings will be shared (when possible)
 4. Checkout the [calendar](#calendar)
 
 ## <a name="meetings">Meetings
 
-We hold general club meetings every Monday from 7:15 to 8:15 PM in ILSB 118.
-We encourage anyone who wants to learn more about cyber security and develop skills in the field to attend our meetings. If you’re new to cyber or computing security, no worries, you can still come. Although cybersecurity can be difficult at times, it's nowhere near as hard as some people say, so don’t be scared away or discouraged.
+We hold general club meetings every Monday from 7:15 to 8:15 PM.
+We encourage anyone who wants to learn more about cyber security and develop skills in the field to attend our meetings. If you’re new to cyber or computing security, no worries, you Intro to the Cyber Team and Competitions\CTFscan still come. Although cybersecurity can be difficult at times, it's nowhere near as hard as some people say, so don’t be scared away or discouraged.
 
 No prior experience is required to attend or participate in our meetings. 
 
