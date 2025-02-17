@@ -27,7 +27,7 @@ You can do a few things to get involved with the club.
 ## <a name="meetings">Meetings
 
 We hold general club meetings every Monday from 7:15 to 8:15 PM.
-We encourage anyone who wants to learn more about cyber security and develop skills in the field to attend our meetings. If you’re new to cyber or computing security, no worries, you Intro to the Cyber Team and Competitions\CTFscan still come. Although cybersecurity can be difficult at times, it's nowhere near as hard as some people say, so don’t be scared away or discouraged.
+We encourage anyone who wants to learn more about cyber security and develop skills in the field to attend our meetings. If you’re new to cyber or computing security, no worries, you can still come. Although cybersecurity can be difficult at times, it's nowhere near as hard as some people say, so don’t be scared away or discouraged.
 
 No prior experience is required to attend or participate in our meetings. 
 
@@ -137,14 +137,9 @@ Some of our club members try out for and compete together on a collegiate cyber 
 ### Board
 
 **President:** William Brooks (wbrooks1 @ umbc.edu)  
-**Vice President:** Isaiah Roland-Reid (i27 @ umbc.edu)     
+**Vice President:** Jaspreet Gill (jgill8 @ umbc.edu)     
 **Treasurer:** Michael Mayhugh (mmayhug1 @ umbc.edu)  
 **Secretary:** Jonathan West (jwest5 @ umbc.edu)
-
-### Honorary Board
-
-**Chief Historical Officer:** Sophia Hamer (chamer1 @ umbc.edu)  
-**Principal Infrastructure Engineer:** Kevin Chen (kevin.chen @ umbc.edu)
 
 ### UMBC Liaisons
 
