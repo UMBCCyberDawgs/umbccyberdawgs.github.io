@@ -9,8 +9,8 @@ Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who sha
 [2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2024-2025_Sponsorship_Packet.pdf)
 
 ## Next Event
-Monday, February 12 | Club Meeting | 7:15-8:15pm | ILSB 116B \
-**Topic:** Intro to the Cyber Team and Competitions\CTFs
+Monday, March 10 | Club Meeting | 7:15-8:15pm | ILSB 116B \
+**Topic:** Zero Trust Security
 
 ## How To Get Involved 
 
