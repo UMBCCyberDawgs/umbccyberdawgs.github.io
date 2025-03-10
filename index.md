@@ -73,7 +73,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 ### Team Competition History and Highlights
 **_2025_** \
 **Mid Atlantic CCDC**: TBA Place \
-**ISTS**: TBA Place
+**ISTS**: 8th Place
 
 **_2024_** \
 **Mid Atlantic CCDC**: 5<sup>th</sup> Place \
@@ -152,8 +152,6 @@ Director, Graduate Computer Science Programs<be>
 Principal Lecturer, Department of Computer Science and Electrical Engineering<br>
 Director, Graduate Cybersecurity Programs<br>
 Assistant Director, UMBC Center for Cybersecurity<be>
-
-**Office of Institutional Advancement (Corporate Partnerships):** Caroline Baker (cbaker @ umbc.edu)
 /
 # Thank you to our Sponsors and Supporters!
 ## Gold Tier
