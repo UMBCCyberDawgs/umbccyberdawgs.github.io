@@ -6,7 +6,7 @@ layout: default
 Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who share a common interest in cybersecurity and good security practices in all aspects of computing.
 
 ## Interested in Supporting CyberDawgs?
-[2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2024-2025_Sponsorship_Packet.pdf)
+[2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
 
 ## Next Event
 Monday, March 10 | Club Meeting | 7:15-8:15pm | ILSB 116B \
