@@ -6,11 +6,11 @@ layout: default
 Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who share a common interest in cybersecurity and good security practices in all aspects of computing.
 
 ## Interested in Supporting CyberDawgs?
-[2024-2025 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
+[2025-2026 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
 
 ## Next Event
-Monday, March 10 | Club Meeting | 7:15-8:15pm | ILSB 116B \
-**Topic:** Zero Trust Security
+Monday, September 15th | Club Meeting | 7:15-8:15pm | Location TBA \
+**Topic:** First Meeting: Club Welcome and Board Intros
 
 ## How To Get Involved 
 
@@ -19,7 +19,7 @@ You can do a few things to get involved with the club.
 1. Join our [Discord](https://discord.gg/hUVkGvvY2y)!
 2. Follow our [myUMBC](https://my3.my.umbc.edu/groups/umbccd) page
 3. Attend our weekly [meetings](#meetings)
-    * Meeting location for the Spring 2025 semester is ILSB 116B with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
+    * Meeting location for the Fall 2025 semester TBA with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
     * Meeting time is every Monday 7:15pm - 8:15pm
     * Meeting Slides and Recordings will be shared (when possible)
 4. Checkout the [calendar](#calendar)
@@ -72,7 +72,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 ### Team Competition History and Highlights
 **_2025_** \
-**Mid Atlantic CCDC**: TBA Place \
+**Mid Atlantic CCDC**: 4th Place \
 **ISTS**: 8th Place
 
 **_2024_** \
@@ -136,10 +136,10 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 ### Board
 
-**President:** William Brooks (wbrooks1 @ umbc.edu)  
-**Vice President:** Jaspreet Gill (jgill8 @ umbc.edu)     
+**President:** Jaspreet Gill (jgill8 @ umbc.edu) 
+**Vice President:**  Alex Henning (ahennin1 @ umbc.edu)
 **Treasurer:** Michael Mayhugh (mmayhug1 @ umbc.edu)  
-**Secretary:** Jonathan West (jwest5 @ umbc.edu)
+**Secretary:** Charles Maxa (cmaxa1 @ umbc.edu)
 
 ### UMBC Liaisons
 
