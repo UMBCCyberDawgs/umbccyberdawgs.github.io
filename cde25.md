@@ -6,3 +6,4 @@ description: Redirect to the info page and sign-up form for CDE 2025. Hope to se
 {::nomarkdown}
 https://my3.my.umbc.edu/groups/umbccd/
 {:/}
+-- force a new commit without newline
