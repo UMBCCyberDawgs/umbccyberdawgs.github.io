@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="{{ page.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <meta http-equiv = "refresh" content = "0; url = {{ content }}"/>
-  <link rel="stylesheet" href="css/main.css">
-{% include head.html %}
+<!-- modified for kramdown/github pages engine, sourced from https://stackoverflow.com/a/32548287 and http://insider.zone -->
+<link rel="canonical" href="{{ content }}"/>
+<noscript>
+    <meta http-equiv="refresh" content="0; URL={{ content }}">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+    var rawurl = {{ content }};
+    var url = rawurl.replace(/<\/?[^>]+(>|$)/g, "");
+    if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+    {
+        document.write("Redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+        var referLink = document.createElement("a");
+        referLink.href = url;
+        document.body.appendChild(referLink);
+        referLink.click();
+    }
+    else { window.location.replace(url); } // All other browsers
+</script>
 </head>
-<body>
-  Redirecting to {{ content }}
-</body>
 </html>
