@@ -14,4 +14,3 @@ description: Redirect to the info page and sign-up form for CDE 2025. Hope to se
     * Meeting location for the Fall 2025 semester TBA with a hybrid/virtual option on [Webex](https://umbc.webex.com/meet/CyberDawgs)
     * Meeting time is every Monday 7:15pm - 8:15pm
     * Meeting Slides and Recordings will be shared (when possible)
-4. Check out the [calendar](https://umbccd.umbc.edu/#calendar)
