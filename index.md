@@ -8,9 +8,82 @@ Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who sha
 ## Interested in Supporting CyberDawgs?
 [2025-2026 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
 
-## Next Event
-Monday, September 15th | Club Meeting | 7:15-8:15pm | Location TBA \
-**Topic:** First Meeting: Club Welcome and Board Intros
+## Next Events
+<ul id="events">Loading events...</ul>
+
+<script>
+async function loadEvents() {
+    //Access the new list with id "events"
+    const list = document.getElementById("events");
+    list.innerHTML = "Loading events...";
+
+    try {
+        //Request the api for upcoming events
+        const res = await fetch("https://api.sga.umbc.edu/events/group/umbccd");
+        if (!res.ok) throw new Error("Network response was not ok");
+            const text = await res.text();
+            const parser = new DOMParser();
+            const xml = parser.parseFromString(text, "application/xml");
+        
+        //Access each element needed, "Summary" is also available if we want to add that
+        const events = [...xml.querySelectorAll("Event")].map(ev => ({
+            title: ev.querySelector("Title")?.textContent || "No title",
+            link: ev.getAttribute("url") || "#",
+            date: ev.querySelector("StartDate")?.textContent || "No start date",
+            endDate: ev.querySelector("EndDate")?.textContent || "No end date",
+            location: ev.querySelector("Location")?.textContent || "Location TBA"
+    }));
+
+    //Clear events from list
+    list.innerHTML = "";
+
+    //Check if there are no upcoming events
+    if (events.length === 0) {
+        list.innerHTML = "<li>No upcoming events</li>";
+        return;
+    }
+
+    //Helper function to stylize date using js date object
+    const formatDateTime = (startStr, endStr) => {
+        const start = new Date(startStr);
+        const end = new Date(endStr);
+
+        const optionsDate = { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' };
+        const optionsTime = { hour: 'numeric', hour12: true };
+
+        //Format date
+        const datePart = start.toLocaleDateString('en-US', optionsDate);
+        
+        //Format times
+        const startTime = start.toLocaleTimeString('en-US', optionsTime);
+        const endTime = end.toLocaleTimeString('en-US', optionsTime);
+
+        return `${datePart} · ${startTime} - ${endTime}`;
+    };
+
+    //Display each event element
+    events.forEach(ev => {
+
+        const li = document.createElement("li");
+        //Create HTML elements for each part of event
+        //Also makes the title link back to the original umbc post
+        li.innerHTML = `
+        <strong><a href="${ev.link}" target="_blank">${ev.title}</a></strong><br>
+        <strong>Date:</strong> ${formatDateTime(ev.date, ev.endDate)}<br>
+        <strong>Location:</strong> ${ev.location}<br>
+        `;
+        //Add event to list
+        list.appendChild(li);
+    });
+
+  } catch (err) {
+    console.error("Failed to load events:", err);
+    list.innerHTML = "<li>Could not load events at this time</li>";
+  }
+}
+
+loadEvents();
+</script>
 
 ## How To Get Involved 
 
@@ -141,13 +214,13 @@ Some of our club members try out for and compete together on a collegiate cyber 
 **Faculty Advisor:** Dr. Charles Nicholas (nicholas @ umbc.edu)<br>
 Professor, Department of Computer Science and Electrical Engineering<br>
 Affiliate Professor, Department of Information Systems<br>
-Director, Graduate Computer Science Programs<be>
+Director, Graduate Computer Science Programs<br>
 
 **Faculty Advisor:** Dr. Richard Forno (rforno @ umbc.edu)<br>
 Principal Lecturer, Department of Computer Science and Electrical Engineering<br>
 Director, Graduate Cybersecurity Programs<br>
-Assistant Director, UMBC Center for Cybersecurity<be>
-/
+Assistant Director, UMBC Center for Cybersecurity<br>
+
 # Thank you to our Sponsors and Supporters!
 ## Gold Tier
 (Contact Club Board if Interested!)
