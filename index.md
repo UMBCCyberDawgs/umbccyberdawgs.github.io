@@ -206,7 +206,7 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 **President:** Jaspreet Gill (jgill8 @ umbc.edu)  
 **Vice President:**  Alex Henning (ahennin1 @ umbc.edu)  
-**Treasurer:** Michael Mayhugh (mmayhug1 @ umbc.edu)  
+**Treasurer:** Gabriela Jurado Fuentes (g189 @ umbc.edu)  
 **Secretary:** Charles Maxa (cmaxa1 @ umbc.edu)
 
 ### UMBC Liaisons
