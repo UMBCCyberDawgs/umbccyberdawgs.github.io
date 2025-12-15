@@ -204,10 +204,10 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 ### Board
 
-**President:** Alex Henning (ahennin1 @ umbc.edu)
-**Vice President:** Charles Maxa (cmaxa1 @ umbc.edu)
-**Treasurer:** Gabriela Jurado Fuentes (g189 @ umbc.edu)
-**Secretary:** Hamza Nasher-Alneam (hnasher1 @ umbc.edu)
+**President:** Alex Henning (ahennin1 @ umbc.edu)<br>
+**Vice President:** Charles Maxa (cmaxa1 @ umbc.edu)<br>
+**Treasurer:** Gabriela Jurado Fuentes (g189 @ umbc.edu)<br>
+**Secretary:** Hamza Nasher-Alneam (hnasher1 @ umbc.edu)<br>
 
 ### UMBC Liaisons
 
