@@ -24,7 +24,7 @@ async function loadEvents() {
             const text = await res.text();
             const parser = new DOMParser();
             const xml = parser.parseFromString(text, "application/xml");
-        
+
         //Access each element needed, "Summary" is also available if we want to add that
         const events = [...xml.querySelectorAll("Event")].map(ev => ({
             title: ev.querySelector("Title")?.textContent || "No title",
@@ -53,7 +53,7 @@ async function loadEvents() {
 
         //Format date
         const datePart = start.toLocaleDateString('en-US', optionsDate);
-        
+
         //Format times
         const startTime = start.toLocaleTimeString('en-US', optionsTime);
         const endTime = end.toLocaleTimeString('en-US', optionsTime);
@@ -85,7 +85,7 @@ async function loadEvents() {
 loadEvents();
 </script>
 
-## How To Get Involved 
+## How To Get Involved
 
 You can do a few things to get involved with the club.
 
@@ -101,7 +101,7 @@ You can do a few things to get involved with the club.
 We hold general club meetings every Monday from 7:15 to 8:15 PM.
 We encourage anyone who wants to learn more about cyber security and develop skills in the field to attend our meetings. If you’re new to cyber or computing security, no worries, you can still come. Although cybersecurity can be difficult at times, it's nowhere near as hard as some people say, so don’t be scared away or discouraged.
 
-No prior experience is required to attend or participate in our meetings. 
+No prior experience is required to attend or participate in our meetings.
 
 **What To Expect From A Meeting:**
 
@@ -115,7 +115,7 @@ Our meetings vary in subject material from week to week. If you want to learn mo
 Along with our normal club meetings, we also provide great opportunities for
 individuals interested in learning about and participating in cyber-related competitions. Here's what we're doing:
 
-* We host two CTF (Capture the Flag) events at UMBC every year: 
+* We host two CTF (Capture the Flag) events at UMBC every year:
    * **DawgCTF** Open to all UMBC students of all skill levels. Held during the Spring semester.
     * **CyberPaws CTF** Open to our club members; aimed at beginners. Challenges are released weekly during the Fall/Spring semester.
 
@@ -204,10 +204,10 @@ Some of our club members try out for and compete together on a collegiate cyber 
 
 ### Board
 
-**President:** Jaspreet Gill (jgill8 @ umbc.edu)  
-**Vice President:**  Alex Henning (ahennin1 @ umbc.edu)  
-**Treasurer:** Gabriela Jurado Fuentes (g189 @ umbc.edu)  
-**Secretary:** Charles Maxa (cmaxa1 @ umbc.edu)
+**President:** Alex Henning (ahennin1 @ umbc.edu)
+**Vice President:** Charles Maxa (cmaxa1 @ umbc.edu)
+**Treasurer:** Gabriela Jurado Fuentes (g189 @ umbc.edu)
+**Secretary:** Hamza Nasher-Alneam (hnasher1 @ umbc.edu)
 
 ### UMBC Liaisons
 
@@ -226,14 +226,11 @@ Assistant Director, UMBC Center for Cybersecurity<br>
 (Contact Club Board if Interested!)
 
 ## Silver Tier
-## <img src="/images/EITLogo.png" height="60%" width="60%"> 
-## <img src="/images/LMLogo.png" height="60%" width="60%"> 
+## <img src="/images/EITLogo.png" height="60%" width="60%">
+## <img src="/images/LMLogo.png" height="60%" width="60%">
 
 ## Bronze Tier
 (Contact Club Board if Interested!)
 
 ## Supporters
-## <img src="/images/NGLogo.png" height="30%" width="30%"> 
-
-<footer><center><a href="http://umbccyberdawgs.github.io/LICENSE.txt">MIT License</a>|<a href="https://drive.google.com/file/d/1rNb2SUcJJwM4jTJs1aLHFC9Npf4WuCM7/view?usp=sharing">CyberDawgs Student Org Constitution</a>|Don't Do Crime!</center></footer>
-
+## <img src="/images/NGLogo.png" height="30%" width="30%">
