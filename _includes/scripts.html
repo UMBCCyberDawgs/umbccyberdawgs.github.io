@@ -1,0 +1,32 @@
+<script>
+// Theme toggle functionality
+(() => {
+  const themeToggle = document.getElementById('theme-toggle');
+  const themeIcon = document.getElementById('theme-icon');
+  const html = document.documentElement;
+
+  // Check for saved theme preference or default to light mode
+  const currentTheme = localStorage.getItem('theme') || 'light';
+
+  // Apply the current theme
+  if (currentTheme === 'dark') {
+    html.setAttribute('data-theme', 'dark');
+    themeIcon.textContent = '☀️';
+  }
+
+  // Toggle theme
+  themeToggle.addEventListener('click', function() {
+    const currentTheme = html.getAttribute('data-theme');
+
+    if (currentTheme === 'dark') {
+      html.removeAttribute('data-theme');
+      themeIcon.textContent = '🌙';
+      localStorage.setItem('theme', 'light');
+    } else {
+      html.setAttribute('data-theme', 'dark');
+      themeIcon.textContent = '☀️';
+      localStorage.setItem('theme', 'dark');
+    }
+  });
+})();
+</script>
