@@ -9,7 +9,13 @@
 {% include head.html %}
 </head>
 <body>
-  <div class="container" style="background-color: inherit">
+  <div class="container" style="background-color: inherit"> 
+     <div style="position: sticky; top: 0; background-color: inherit; border-bottom: solid .1rem #ddd; margin-bottom: 1.4rem; padding: .2rem 0; z-index: 10">
+         <a href="/">Home</a> |
+         <a href="/cde">CDE</a> |
+         <a href="/dawgctf">DawgCTF</a> |
+         <a href="/history">Team History</a>
+     </div>
     {{ content }}
     <hr>
   </div>
