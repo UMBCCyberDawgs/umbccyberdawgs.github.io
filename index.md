@@ -234,3 +234,4 @@ Assistant Director, UMBC Center for Cybersecurity<br>
 
 ## Supporters
 ## <img src="/images/NGLogo.png" height="30%" width="30%">
+## <img src="/images/BinaryNinjaLogo.png" height="30%" width="30%">
