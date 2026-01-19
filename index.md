@@ -5,9 +5,6 @@ layout: default
 ## Welcome!
 Welcome to the UMBC CyberDawgs homepage! We are a group of UMBC students who share a common interest in cybersecurity and good security practices in all aspects of computing.
 
-## Interested in Supporting CyberDawgs?
-[2025-2026 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
-
 ## Next Events
 <ul id="events">Loading events...</ul>
 
@@ -176,4 +173,8 @@ Professor, Department of Computer Science and Electrical Engineering<br>
 
 ## Supporters
 ## <img src="/images/NGLogo.png" height="30%" width="30%">
-## <img src="/images/BinaryNinjaLogo.png" height="30%" width="30%">
+
+## Want to see your name here?
+Check out the 
+[2025-2026 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
+<br/><br/>

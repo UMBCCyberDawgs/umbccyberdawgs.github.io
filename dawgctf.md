@@ -20,3 +20,6 @@ Our goal is to have this CTF be fun and accessible for CTF beginners and veteran
 
 
 If you have questions, please ask in the Discord or by emailing a board member.
+
+## Thank you to our DawgCTF Sponsors!
+[<img src="/images/BinaryNinjaLogo.png" width="60%">](https://binary.ninja/)
