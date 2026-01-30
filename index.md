@@ -176,5 +176,5 @@ Professor, Department of Computer Science and Electrical Engineering<br>
 
 ## Want to see your name here?
 Check out the 
-[2025-2026 CyberDawgs Sponsorship Packet](CyberDawgs_2025-2026_Sponsorship_Packet.pdf)
+[Spring 2026 CyberDawgs Sponsorship Packet](documents/sponsorship-packet-spring-2026.pdf)
 <br/><br/>
