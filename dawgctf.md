@@ -10,7 +10,7 @@ DawgCTF is a Jeopardy-style CTF hosted annual by the CyberDawgs club, open to cl
 
 This year DawgCTF will be from April 10-12.
 
-You can register and form teams on [MetaCTF](https://metactf.com/join/dawgctf26). 
+You can register and form teams on [MetaCTF](https://metactf.com/join/dawgctf26). For in-person competitiors, don't forget to fill the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf4v43nqTSbd5CY4_7URnSLqFHhTE0MouLwoBXVVJqmVPov5Q/viewform?usp=header).
 
 To stay up-to-date on developments you can join the [DawgCTF Discord](https://discord.com/invite/NTJaCuaUTm).
 
