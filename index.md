@@ -160,21 +160,17 @@ Assistant Teaching Professor, Department of Computer Science and Electrical Engi
 **Team Faculty Advisor:** Kevin Chen (kevin.chen @ umbc.edu)<br>
 Professor, Department of Computer Science and Electrical Engineering<br>
 
-# Thank you to our Sponsors and Supporters!
-## Gold Tier
-(Contact Club Board if Interested!)
+## Thank you to our Sponsors and Supporters!
+The views, activities, and sponsorships expressed on this site are those of the CyberDawgs only. They are not endorsed by UMBC, nor do they constitute an official communication or institutional partnership of UMBC
 
-## Silver Tier
+### Silver Tier
 ## <img src="/images/EITLogo.png" height="60%" width="60%">
 ## <img src="/images/LMLogo.png" height="60%" width="60%">
 
-## Bronze Tier
-(Contact Club Board if Interested!)
-
-## Supporters
+### Supporters
 ## <img src="/images/NGLogo.png" height="30%" width="30%">
 
-## Want to see your name here?
-Check out the 
+### Want to see your name here?
+Check out the
 [Spring 2026 CyberDawgs Sponsorship Packet](documents/sponsorship-packet-spring-2026.pdf)
 <br/><br/>
