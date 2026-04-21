@@ -166,6 +166,7 @@ The views, activities, and sponsorships expressed on this site are those of the 
 ### Silver Tier
 ## <img src="/images/EITLogo.png" height="60%" width="60%">
 ## <img src="/images/LMLogo.png" height="60%" width="60%">
+## <img src="/images/RealmOneLogo.png" height="60%" width="60%">
 
 ### Supporters
 ## <img src="/images/NGLogo.png" height="30%" width="30%">
