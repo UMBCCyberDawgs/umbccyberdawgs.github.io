@@ -143,9 +143,9 @@ Some of our club members try out for and compete together on a collegiate cyber 
 ### Board
 
 **President:** Alex Henning (ahennin1 @ umbc.edu)<br>
-**Vice President:** Daniel Yum (dyum1@umbc.edu)<br>
+**Vice President:** Daniel Yum (dyum1 @ umbc.edu)<br>
 **Treasurer:** Gabriela Jurado Fuentes (g189 @ umbc.edu)<br>
-**Secretary:** Milk Patel (mpatel32@umbc.edu)<br>
+**Secretary:** Milk Patel (mpatel32 @ umbc.edu)<br>
 
 ### UMBC Liaisons
 
